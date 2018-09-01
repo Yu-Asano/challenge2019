@@ -5,6 +5,14 @@ h2 {
   font-weight: bold;
   margin-top: 10px;
 }
+#p_sponsor {
+	background: #EEEEEE;
+	padding: 0.3em;
+}
+#g_sponsor {
+	background: #FFFFCC;
+	padding: 0.3em;
+}
 
 h3.partner-type {
   font-size: 25px;
