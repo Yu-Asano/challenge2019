@@ -5,12 +5,8 @@ h2 {
   font-weight: bold;
   margin-top: 10px;
 }
-#p_sponsor {
+.sponsor {
 	background: #EEEEEE;
-	padding: 0.3em;
-}
-#g_sponsor {
-	background: #FFFFCC;
 	padding: 0.3em;
 }
 
