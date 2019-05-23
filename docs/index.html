@@ -2,7 +2,9 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+
 <script type="text/javascript">
+// Githubでは.htaccessが使えないのでJavascriptで擬似的にリダイレクトさせる（http→https）
 if(location.protocol == 'http:') {
   location.replace(location.href.replace(/http:/, 'https:'));
 }
@@ -47,7 +49,7 @@ $(function() {
 });
 </script>
 <style type="text/css">
-	/* タイトルバナーのリンク色を設定するためのスタイル */
+	/* タイトルバナー（赤枠内）のリンク色を設定するためのスタイル */
 	a.bannerlink:link { color: #fff; }
 	a.bannerlink:visited { color: #fff; }
 	a.bannerlink:hover { color: #fff; }
