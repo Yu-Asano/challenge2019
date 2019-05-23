@@ -1,4 +1,6 @@
+### Githubでは.htaccessは使えない
+
 RewriteEngine on
 RewriteCond %{HTTPS} off
-#RewriteRule ^(.*)$ https://%{HTTP_HOST}%{REQUEST_URI} [R,L] 
+RewriteRule ^(.*)$ https://%{HTTP_HOST}%{REQUEST_URI} [R,L] 
 RewriteRule ^(.*)$ https://2019.lodc.jp/$1 [R=301,L]
