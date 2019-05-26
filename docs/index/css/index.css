@@ -261,6 +261,9 @@ div#bannerBox ul li{
 	list-style-position: outside;
 }
 
+#entry .prize-category .with-explanation li {
+	margin: 0 0 5px 0;
+}
 
 /*--------------------------------------*/
 /* criteria */
