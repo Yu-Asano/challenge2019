@@ -1,0 +1,204 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Linked Open Data Challenge 2019 (LODチャレンジ2019)</title>
+<meta name="keywords" content="Linked Open Data Challenge 2019,LODチャレンジ2019,LODチャレンジ,Linked Open Data, LOD,オープンデータ,Open Data,Semantic Web,Ontology,人工知能,AI,ビッグデータ,データサイエンス,コンテスト,artificial intelligence" />
+<meta name="description" content="Linked Open Data Challenge 2019 (LODチャレンジ2019)" />
+<meta http-equiv="Content-Language" content="ja" />
+<meta http-equiv="Content-Script-Type" content="text/javascript" />
+<meta http-equiv="Content-Style-Type" content="text/css" />
+<meta http-equiv="imagetoolbar" content="no" />
+<!--OGP設定-->
+<meta property="og:site_name" content="LODチャレンジ2019" />
+<meta property="og:title" content="LODチャレンジ2019" />
+<meta property="og:url" content="https://2019.lodc.jp/" />
+<meta property="og:image" content="https://2019.lodc.jp/share/img/fb_lodc2019.jpg" />
+<meta property="og:description" content="LODチャレンジ2019 応募期間：2019.6.1から2019.10.1" />
+<meta property="og:type" content="website" />
+
+<!--Twitter Card設定-->
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:site" content="@LodJapan">
+<meta name="twitter:creator" content="@LodJapan">
+<meta name="twitter:title" content="LODチャレンジ2019">
+<meta name="twitter:description" content="LODチャレンジ2019 応募期間：2019.6.1から2019.10.1">
+<meta name="twitter:image:src" content="https://2019.lodc.jp/share/img/fb_lodc2019.jpg">
+
+<link rel="canonical" href="https://2019.lodc.jp/" />
+<link href="share/css/set/import.css" rel="stylesheet" type="text/css" media="all" />
+<link href="share/css/share.css" rel="stylesheet" type="text/css" media="all" />
+<link href="index/css/index.css" rel="stylesheet" type="text/css" media="all" />
+<link href="favicon.ico" rel="shortcut icon" type="image/vnd.microsoft.icon" />
+<link href="favicon.ico" rel="icon" type="image/vnd.microsoft.icon" />
+<script type="text/javascript" src="share/js/jquery.js"></script>
+<script type="text/javascript" src="share/js/default.js"></script>
+<script>
+$(function() {
+	$("#header").load("header.html");
+	$("#footer").load("footer.html");
+});
+</script>
+<style type="text/css">
+	/* タイトルバナー（赤枠内）のリンク色を設定するためのスタイル */
+	a.bannerlink:link { color: #fff; }
+	a.bannerlink:visited { color: #fff; }
+	a.bannerlink:hover { color: #fff; }
+	a.bannerlink:active { color: #fff; }
+</style>
+</head>
+	<body>
+		<div id="wrapper">
+			<div id="header" class="clearfix"></div>
+			<div id="mainImgBox">
+				<p id="mainImg"><img src="./index/img/topvisual2018.png" alt="" width="960"></p>
+				<!-- 各部門のナレッジコネクタへのリンク
+				<a id="list_i" class="list_button" target="_blank" href="http://idea.linkdata.org/ideas?tag=LOD%E3%83%81%E3%83%A3%E3%83%AC%E3%83%B3%E3%82%B82018%E3%82%A8%E3%83%B3%E3%83%88%E3%83%AA%E3%83%BC%E4%BD%9C%E5%93%81%20-%20%E3%82%A2%E3%82%A4%E3%83%87%E3%82%A3%E3%82%A2%E9%83%A8%E9%96%80">一覧を見る</a>
+				<a id="list_d" class="list_button" target="_blank" href="http://idea.linkdata.org/ideas?tag=LOD%E3%83%81%E3%83%A3%E3%83%AC%E3%83%B3%E3%82%B82018%E3%82%A8%E3%83%B3%E3%83%88%E3%83%AA%E3%83%BC%E4%BD%9C%E5%93%81%20-%20%E3%83%87%E3%83%BC%E3%82%BF%E3%82%BB%E3%83%83%E3%83%88%E9%83%A8%E9%96%80">一覧を見る</a>
+				<a id="list_a" class="list_button" target="_blank" href="http://idea.linkdata.org/ideas?tag=LOD%E3%83%81%E3%83%A3%E3%83%AC%E3%83%B3%E3%82%B82018%E3%82%A8%E3%83%B3%E3%83%88%E3%83%AA%E3%83%BC%E4%BD%9C%E5%93%81%20-%20%E3%82%A2%E3%83%97%E3%83%AA%E3%82%B1%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E9%83%A8%E9%96%80">一覧を見る</a>
+				<a id="list_v" class="list_button" target="_blank" href="http://idea.linkdata.org/ideas?tag=LOD%E3%83%81%E3%83%A3%E3%83%AC%E3%83%B3%E3%82%B82018%E3%82%A8%E3%83%B3%E3%83%88%E3%83%AA%E3%83%BC%E4%BD%9C%E5%93%81%20-%20%E3%83%87%E3%83%BC%E3%82%BF%E5%88%86%E6%9E%90%E3%83%BB%E5%8F%AF%E8%A6%96%E5%8C%96%E9%83%A8%E9%96%80">一覧を見る</a>
+				<a id="list_b" class="list_button" target="_blank" href="http://idea.linkdata.org/ideas?tag=LOD%E3%83%81%E3%83%A3%E3%83%AC%E3%83%B3%E3%82%B82018%E3%82%A8%E3%83%B3%E3%83%88%E3%83%AA%E3%83%BC%E4%BD%9C%E5%93%81%20-%20%E5%9F%BA%E7%9B%A4%E6%8A%80%E8%A1%93%E9%83%A8%E9%96%80">一覧を見る</a>
+				-->
+			</div>
+			<div id="mainContents">
+				<div class="clearfix">
+					<div style="background-color:#BC2A30; padding:10px; text-align: center;">
+					
+						<!--
+						<font color="white" size="5" style="display: block;text-decoration:none;">LODチャレンジ2019開催決定！！<br>
+						応募期間：2019年6月1日～2019年10月1日（詳細は後日公開予定です）
+						</font>
+						-->
+						<font color="white" size="5" style="display: block;text-decoration:none;">LODチャレンジ2019 作品募集中！<br>
+						応募期間：2019年6月1日 ～ 2019年10月1日<br>
+						<a href="entry.html"  id="entry_button" target="_blank">エントリーはこちらから</a>
+						<div style="margin-top:20px;">
+							<a href="https://lodc2019meetup.peatix.com/" style="color:#FFF;">LODチャレンジ2019ミートアップ</a> 参加者募集中！！
+						</div>2019年7月5日(金)＠国立情報学研究所
+						</font>
+						
+					</div>
+					
+					<p id="entry" style="margin-top:30px;"><a id="link-to-method" href="entry_list.html">現在の応募作品一覧</a></p>
+				</div>
+		
+<div class="leftcontainer">
+	<div id="newTopics"><br>
+		<strong>ニュース</strong>
+		<dl>
+			<dt>2019-02-01</dt>
+			<dd><a href="http://lodc.jp/2015/concrete5/blog/lod2018award" target="_blank" title="">【開催報告】LODチャレンジ2018授賞式シンポジウム</a></dd>
+			<dt>2018-11-08</dt>
+			<dd><a href="http://lodc.jp/2015/concrete5/blog/2018-11-08" target="_blank" title="">【プレスリリース】Linked Open Data チャレンジ Japan 2018 受賞作品発表</a></dd>
+		</dl>
+			<div align="right"><a href="news_archive.html" target="_self">過去のニュースアーカイブ</a></div><br>
+
+		<strong>イベント</strong>
+		<dl>
+			<!-- 6月1日以降入れる
+			<dt>2019-07-05</dt>
+			<dd><a href="https://lodc2019meetup.peatix.com/" target="_blank">(主催)LODチャレンジ2019ミートアップ</a></dd>
+			-->
+			<dt>2019-03-02<br>　</dt>
+			<dd><a href="https://iodd2019osaka.peatix.com" target="_blank">(主催)インターナショナル・オープンデータ・デイ(IODD)大阪2019<br>－オープンデータを「世界」に発信するウィキデータ・ソン－</a></dd>
+			<dt>2018-12-08</dt>
+			<dd><a href="https://lodc2018.peatix.com/" target="_blank">(主催)LODチャレンジ2018シンポジウム －つながるオープンデータ最新事例大集合－</a></dd>
+			<dt>2018-12-06</dt>
+			<dd><a href="https://opendata-ws-osaka.peatix.com/" target="_blank">(主催)オープンデータ活用ワークショップ　－データを使って「まちづくり」を考えよう！－</a></dd>
+			<dt>2018-10<br>-21,22</dt>
+			<dd><a href="https://spaceappsjapan.connpass.com/event/101901/" target="_blank">(後援)【大阪会場】NASA Space Apps Challenge Osaka 2018 ハッカソン</a><br>　</dd>
+			<dt>2018-10-15</dt>
+			<dd><a href="https://gis-opendata-osaka.peatix.com" target="_blank">(主催)「オープンデータ公開における位置情報活用の取組み」講習</a></dd>							
+			<dt>2018-09-29</dt>
+			<dd><a href="https://lab.ndl.go.jp/cms/digicafe2018" target="_blank" title="">(協力)NDLデジタルライブラリーカフェ 第2回ウィキペディアと図書館～人と場と情報～</a></dd>							
+			<dt>2018-09-24</dt>
+			<dd><a href="https://spaceappsjapan.connpass.com/event/98584/" target="_blank">(後援)【大阪会場】NASA Space Apps Challengeアイディアソン＆オープンデータ勉強会</a></dd>							
+			<dt>2018-09-15</dt>
+			<dd><a href="https://connpass.com/event/99528/" target="_blank" title="">(協力)人工知能API使ってみようハッカソン</a></dd>							
+			<dt>2018-09-15</dt>
+			<dd><a href="https://lab.ndl.go.jp/cms/digicafe2018" target="_blank" title="">(協力)NDLデジタルライブラリーカフェ 第1回アイデアをかたちにする二次利用のたのしみ</a></dd>							
+			<dt>2018-08-06<br>-09-07</dt>
+			<dd><a href="http://kobe-barcelona.net/" target="_blank">(後援)World Data Viz Challenge 2018</a><br>　</dd>							
+			<dt>2018-09-04</dt>
+			<dd><a href="https://lod-ws3.peatix.com/" target="_blank" title="">(共催)第3回Linked Open Data（LOD）活用ワークショップ</a></dd>
+			<dt>2018-08-07</dt>
+			<dd><a href="http://challenge.knowledge-graph.jp/event20180807.html" target="_blank" title="">(後援)ナレッジグラフ推論チャレンジ：応募に向けた「技術勉強会」</a></dd>							
+			<dt>2018-07-28</dt>
+			<dd><a href="http://2018.lodc.jp/doc/kappara20180728.jpg" target="_blank">(後援)夏休み自由研究オープンデータルーム</a></dd>							
+			<dt>2018-07-02</dt>
+			<dd><a href="https://lodc2018meetup.peatix.com/" target="_blank" title="">LODチャレンジ2018ミートアップ</a></dd>							
+			<dt>2018-03-10</dt>
+			<dd><a href="https://lodc2017sympo.peatix.com/" target="_blank" title="">(主催)LODチャレンジ2017シンポジウム－つながるオープンデータ最新事例大集合－</a></dd>
+			<dt>2018-03-03<br>　</dt>
+			<dd><a href="http://wp.lodosaka.jp/lod-20180303/" target="_blank" title="">(主催)第9回LODハッカソン in インターナショナル・オープンデータ・デイ大阪2018 －「大阪」各地のオープンデータを使ってみよう！</a></dd>
+			<dt>2018-01-26</dt>
+			<dd><a href="http://wp.lodosaka.jp/lod-20180126/" target="_blank" title="">(主催)第3回オープンデータ情報交換会（大阪）</a></dd>
+		</dl>
+		<div align="right"><a href="event_archive.html" target="_self">過去のイベントアーカイブ</a></div>
+	</div>
+
+	<!--
+	<div class="clearfix">
+		<strong>Platinumスポンサー</strong>
+			<a href="http://www.fujitsu.com/jp/" target="_blank" title=""><img src="./share/img/spP_fujitsu.png" alt="富士通株式会社" width="180" border="0" hspace="10" vspace="10"></a>
+			<a href="http://www.hitachi.co.jp/" target="_blank" title=""><img src="./share/img/spP_hitachi.png" alt="株式会社日立製作所" width="180" border="0" hspace="10" vspace="10"></a>
+		<strong>Goldスポンサー</strong>
+			<a href="http://www.ontolonomy.co.jp" target="_blank" title=""><img src="./share/img/spG_ontolonomy.png" alt="オントロノミー合同会社" width="140" border="0" hspace="10" vspace="10"></a>
+			<a href="https://www.city.inagi.tokyo.jp/shisei/gyosei/opendata/index.html" target="_blank" title=""><img src="./share/img/spG_tokyo_minami_tama.png" alt="東京南多摩５市（八王子市、町田市、日野市、多摩市、稲城市）" width="140" border="0" hspace="10" vspace="10"></a>
+		<strong>データ提供パートナー</strong>
+			<a href="http://libmaro.kyoto.jp/" target="_blank" title=""><img src="./share/img/libmaro_logo.png" alt="" border="0" hspace="10" vspace="10"></a>
+			<a href="http://www.ndl.go.jp/jp/aboutus/standards/lod_download.html" target="_blank" title=""><img src="./share/img/ndl_logo.png" height="140" width="140" alt="" border="0" hspace="10" vspace="10"></a>
+			<a href="http://aigid.jp/" target="_blank" title=""><img src="./share/img/aigid_logo.png" alt="" border="0" hspace="10" vspace="10"></a>
+			<a href="http://ja.dbpedia.org" target="_blank" title=""><img src="./share/img/dbpedia_logo.png" alt="" border="0" hspace="10" vspace="10"></a>
+			<a href="http://monodzukurilod.org/neji/" target="_blank" title=""><img src="./share/img/nejilod_logo.png" alt="" border="0" hspace="10" vspace="10"></a>
+			<a href="http://www.bitmeister.jp/" target="_blank" title=""><img src="./share/img/bitmeister.png" alt="BitMeister" height="140" border="0" hspace="10" vspace="10"></a>
+			<a href="http://www.ohsuga.is.uec.ac.jp/bicycle/dataset.html" target="_blank" title=""><img src="./share/img/ipblod_logo.png" alt="" border="0" hspace="10" vspace="10"></a>
+			<a href="http://linkedopendata.tw/tap.html" target="_blank" title=""><img src="./share/img/lodtaiwan_logo.png" alt="" border="0" hspace="10" vspace="10"></a>
+			<a href="http://www.osmf.jp" target="_blank" title=""><img src="./share/img/osmfj_logo.png" alt="" width="140" height="140" border="0" hspace="10" vspace="10"></a>
+			<a href="http://www.e-stat.go.jp/" target="_blank" title=""><img src="./share/img/toukei_logo.png" alt="" height="140" width="140" border="0" hspace="10" vspace="10"></a>
+			<a href="http://yan.yafjp.org/lod" target="_blank" title=""><img src="./share/img/yaf_logo.png" alt="" width="140" height="140" border="0" hspace="10" vspace="10"></a>
+			<a href="http://codh.rois.ac.jp/dataset/" target="_blank" title=""><img src="./share/img/codh-logo.png" alt="" width="140" height="140" border="0" hspace="10" vspace="10"></a>
+			<a href="http://www.nijl.ac.jp/pages/cijproject/data_set_list.html" target="_blank" title=""><img src="./share/img/nijl_logo.png" alt="" width="140" height="140" border="0" hspace="10" vspace="10"></a>
+		<strong>基盤提供パートナー</strong>
+			<a href="http://www.indigo.co.jp/service/lab/" target="_blank" title=""><img src="./share/img/indigo.jpg" alt="Indigo" width="140" border="0" hspace="10" vspace="10"></a>
+			<a href="https://odp.jig.jp/" target="_blank" title=""><img src="./share/img/jigjp_logo.png" alt="jig.jp" border="0" hspace="10" vspace="10"></a>
+			<a href="http://howml.org/" target="_blank" title=""><img src="./share/img/howml.jpg" alt="ハウモリ" border="0" hspace="10" vspace="10"></a>
+			<a href="http://linkdata.org/" target="_blank" title=""><img src="./share/img/linkdata_logo.png" alt="LinkData.org" border="0" hspace="10" vspace="10"></a>
+			<a href="http://e2d3.org/ja/" target="_blank" title=""><img src="./share/img/E2D3_logo.png" alt="E2D3" width="140" border="0" hspace="10" vspace="10"></a>
+			<a href="https://www.he.kanagawa-it.ac.jp/" target="_blank" title=""><img src="./share/img/kanagawa-it_logo.png" alt="kanagawa-it" width="140" border="0" hspace="10" vspace="10"></a>
+			<a href="https://ja.monaca.io/" target="_blank" title=""><img src="./share/img/monaca_logo.png" alt="monaca" width="140" border="0" hspace="10" vspace="10"></a>
+			<a href="https://lod4all.net/ja/" target="_blank" title=""> <img src="./share/img/LOD4ALL140.jpg" alt="LOD4ALL: 株式会社富士通研究所" width="140" height="140" border="0" hspace="10" vspace="10"></a>
+	</div>
+	-->
+</div>
+
+<div id="bannerBox">
+<br>
+<strong>過去の開催と受賞作品</strong>
+<ul>
+	<li><a href="https://2018.lodc.jp/" target="_self">LODチャレンジJapan 2018</a>　<a href="http://lodc.jp/2015/concrete5/blog/lod2018award">2018受賞作品</a></li>
+	<li><a href="https://2017.lodc.jp/" target="_self">LODチャレンジJapan 2017</a>　<a href="http://lodc.jp/2015/concrete5/blog/lod2017award">2017受賞作品</a></li>
+	<li><a href="https://2016.lodc.jp/" target="_self">LODチャレンジJapan 2016</a>　<a href="http://lodc.jp/2015/concrete5/blog/lod2016award">2016受賞作品</a></li>
+	<li><a href="http://lodc.jp/2015/concrete5/" target="_self">LODチャレンジJapan 2015</a>　<a href="http://lodc.jp/2015/concrete5/blog/2016-02-19">2015受賞作品</a></li>
+	<li><a href="https://web.archive.org/web/20181129223238/http://lod.sfc.keio.ac.jp/challenge2014/" target="_self">LODチャレンジJapan 2014</a>　<a href="https://web.archive.org/web/20161124231748/http://lod.sfc.keio.ac.jp/blog/?p=2647">2014受賞作品</a></li>
+	<li><a href="https://web.archive.org/web/20180723120643/http://lod.sfc.keio.ac.jp/challenge2013/" target="_self">LODチャレンジJapan 2013</a>　<a href="https://web.archive.org/web/20170316034023/http://lod.sfc.keio.ac.jp/blog/?p=2109">2013受賞作品</a></li>
+	<li><a href="https://web.archive.org/web/20170324212758/http://lod.sfc.keio.ac.jp/challenge2012/" target="_self">LODチャレンジJapan 2012</a>　<a href="http://lodc.jp/2012/show_list.html">2012受賞作品</a></li>
+	<li><a href="https://web.archive.org/web/20160911141342/http://lod.sfc.keio.ac.jp/challenge2011/" target="_self">LODチャレンジJapan 2011</a>　<a href="http://lodc.jp/2011/show_list.html">2011受賞作品</a></li>
+	<li><strong>主催</strong></li>
+	<li><a href="committee.html" target="_self">LODチャレンジJapan実行委員会</a></li>
+	<li><a href="partner.html" target="_self">スポンサー・パートナー募集</a></li>
+	<li><a href="comittee_rule.html">実行委員会会則</a></li>
+	<li><strong>後援</strong></li>
+	<li><a href="http://linkedopendata.jp/" target="_blank">特定非営利活動法人リンクト・オープン・データ・イニシアティブ</a></li>
+	<li><a href="http://www.sigswo.org/" target="_blank">一般社団法人人工知能学会セマンティックウェブとオントロジー研究会</a></li>
+
+	<iframe src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2FLOD.challenge.Japan%2F&tabs=timeline&width=250&height=405&small_header=true&adapt_container_width=true&hide_cover=true&show_facepile=true&appId" width="250" height="405" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe>
+
+</ul>
+</div>
+</div>
+
+<div id="footer" style="clear:both;"></div>
+</div>
+</body>
+</html>
