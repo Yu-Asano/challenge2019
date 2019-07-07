@@ -1,0 +1,1165 @@
+@import url( //fonts.googleapis.com/css?family=Titillium+Web:200,400,700,900 );
+.clear_float::before {
+	display: table; content: " ";
+}
+.clear_float::after {
+	display: table; content: " ";
+}
+.clear_float::after {
+	clear: both;
+}
+body {
+	background: url("/2015/concrete5/updates/concrete5.7.5.13_remote_updater/concrete/themes/elemental/images/background.png");
+}
+div.ccm-page {
+	position: relative;
+}
+div.ccm-page {
+	line-height: 1.4285; font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; font-size: 15px; font-weight: 400; -webkit-font-smoothing: antialiased;
+}
+div.ccm-page blockquote {
+	border-color: rgb(189, 207, 216); color: rgb(91, 103, 108); line-height: 1.4285; padding-left: 60px; font-size: 1.46em; font-weight: 300;
+}
+div.ccm-page h1 {
+	color: rgb(26, 26, 26); text-transform: none; line-height: 1.4285; font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; font-size: 2em; font-weight: 700;
+}
+div.ccm-page h2 {
+	color: rgb(26, 26, 26); text-transform: none; line-height: 1.4285; font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; font-size: 1.46em; font-weight: 700;
+}
+div.ccm-page h3 {
+	color: rgb(142, 140, 139); text-transform: none; line-height: 1.4285; font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; font-size: 1em; font-weight: 700;
+}
+div.ccm-page h4 {
+	color: rgb(79, 88, 92); text-transform: none; line-height: 1.4285; font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; font-size: 1.05em; font-weight: 700;
+}
+div.ccm-page h5 {
+	color: rgb(159, 169, 173); text-transform: uppercase; line-height: 1.4285; font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; font-size: 0.73em; font-weight: 700;
+}
+div.ccm-page h6 {
+	color: rgb(219, 164, 117); text-transform: uppercase; line-height: 1.4285; font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; font-size: 1em; font-weight: 400;
+}
+div.ccm-page img {
+	height: auto; max-width: 100%;
+}
+div.ccm-page hr {
+	margin-top: 80px; margin-bottom: 80px; border-top-color: rgb(236, 236, 236); border-top-width: 1px; border-top-style: solid;
+}
+div.ccm-page main {
+	padding-bottom: 80px; background-color: rgb(255, 255, 255);
+}
+div.ccm-page main a:not(.fa):not(.btn) {
+	color: rgb(0, 66, 118);
+}
+div.ccm-page footer a:not(.fa):not(.btn) {
+	color: rgb(0, 66, 118);
+}
+div.ccm-page main a:not(.fa):not(.btn):hover {
+	color: rgb(38, 116, 178); text-decoration: none;
+}
+div.ccm-page footer a:not(.fa):not(.btn):hover {
+	color: rgb(38, 116, 178); text-decoration: none;
+}
+div.ccm-page div[data-container=block] div:last-child.container {
+	padding-bottom: 0px;
+}
+div.ccm-page.page-type-blog-entry div.col-sidebar {
+	padding-top: 40px;
+}
+div.ccm-page div.col-sidebar hr {
+	margin-top: 20px; margin-bottom: 20px;
+}
+div.ccm-page div.ccm-system-errors {
+	margin-top: 40px;
+}
+div.ccm-page header {
+	padding-top: 30px; padding-bottom: 30px; border-bottom-color: rgb(217, 217, 217); border-bottom-width: 1px; border-bottom-style: solid; background-color: rgb(255, 255, 255);
+}
+div.ccm-page header #header-site-title {
+	transition:color 0.2s linear; color: rgb(169, 0, 0); text-transform: none; line-height: 1em; font-family: Titillium Web; font-size: 2em; font-weight: 400; -webkit-transition: color .2s linear; -o-transition: color .2s linear;
+}
+div.ccm-page header #header-site-title:hover {
+	color: rgb(67, 0, 0); text-decoration: none !important;
+}
+div.ccm-page header .ccm-search-block-form {
+	position: relative;
+}
+div.ccm-page header .ccm-search-block-form::before {
+	left: 14px; top: 9px; color: rgb(203, 203, 203); font-family: FontAwesome; font-style: normal; font-weight: normal; text-decoration: inherit; display: inline-block; position: absolute; content: "\f002";
+}
+div.ccm-page header .ccm-search-block-form .ccm-search-block-text {
+	padding: 10px 20px 10px 35px; border-radius: 30px; border: 1px solid rgb(203, 203, 203); border-image: none; color: rgb(203, 203, 203); background-color: rgb(255, 255, 255);
+}
+div.ccm-page header .ccm-search-block-form .ccm-search-block-text:focus {
+	outline: 0px;
+}
+div.ccm-page header nav .dropdown::after {
+	content: " ?";
+}
+div.ccm-page header nav .dropdown:hover::after {
+	content: "\25bc";
+}
+div.ccm-page header nav ul {
+	list-style: none; padding: 0px; margin-top: 10px !important; float: right; -webkit-font-smoothing: antialiased;
+}
+div.ccm-page header nav ul a {
+	color: rgb(255, 151, 0); text-transform: none; padding-right: 40px; font-family: Titillium Web; font-size: 1em; font-weight: 700;
+}
+div.ccm-page header nav ul a:hover {
+	color: rgb(255, 213, 171); text-decoration: none;
+}
+div.ccm-page header nav ul li {
+	margin: 0px; padding: 0px 0px 10px; display: inline-block; position: relative;
+}
+div.ccm-page header nav ul li:hover ul {
+	top: 30px; visibility: visible; opacity: 1;
+}
+div.ccm-page header nav ul li ul {
+	padding: 15px 15px 0px; border-radius: 3px; border: 1px solid rgb(237, 242, 243); transition:0.25s; border-image: none; left: 0px; top: 20px; width: 200px; float: left; visibility: hidden; position: absolute; z-index: 99; cursor: pointer; opacity: 0; background-color: rgb(255, 255, 255); -webkit-transition: all .25s ease; -o-transition: all .25s ease; -webkit-border-radius: 3px; -moz-border-radius: 3px; -ms-border-radius: 3px;
+}
+div.ccm-page header nav ul li ul li {
+	width: 100%; padding-bottom: 0px; float: none;
+}
+div.ccm-page header nav ul li ul li:hover a {
+	color: rgb(255, 154, 0);
+}
+div.ccm-page header nav ul li ul li a {
+	transition:0.25s; color: rgb(162, 162, 162); text-transform: none; padding-bottom: 15px; font-family: "Helvetica Neue", Arial, Helvetica, sans-serif; font-size: 1em; font-weight: normal; display: block; -webkit-transition: all .25s ease; -o-transition: all .25s ease;
+}
+div.ccm-page header nav ul li ul li a:hover {
+	color: rgb(255, 154, 0);
+}
+div.ccm-page div.ccm-pagination-wrapper {
+	text-align: center;
+}
+div.ccm-page .pagination > li.active span {
+	background: none; border-color: rgb(212, 239, 189); color: rgb(84, 134, 39);
+}
+div.ccm-page .pagination > li.next.disabled a {
+	color: rgb(179, 190, 184);
+}
+div.ccm-page .pagination > li.next.disabled span {
+	color: rgb(179, 190, 184);
+}
+div.ccm-page .pagination > li.next a {
+	padding-right: 25px; border-right-color: rgb(212, 239, 189); border-right-width: 1px; border-right-style: solid; border-top-right-radius: 25px; border-bottom-right-radius: 25px;
+}
+div.ccm-page .pagination > li.next span {
+	padding-right: 25px; border-right-color: rgb(212, 239, 189); border-right-width: 1px; border-right-style: solid; border-top-right-radius: 25px; border-bottom-right-radius: 25px;
+}
+div.ccm-page .pagination > li.prev.disabled a {
+	color: rgb(179, 190, 184);
+}
+div.ccm-page .pagination > li.prev.disabled span {
+	color: rgb(179, 190, 184);
+}
+div.ccm-page .pagination > li.prev span {
+	padding-left: 25px; border-left-color: rgb(212, 239, 189); border-left-width: 1px; border-left-style: solid; border-top-left-radius: 25px; border-bottom-left-radius: 25px;
+}
+div.ccm-page .pagination > li.prev a {
+	padding-left: 25px; border-left-color: rgb(212, 239, 189); border-left-width: 1px; border-left-style: solid; border-top-left-radius: 25px; border-bottom-left-radius: 25px;
+}
+div.ccm-page .pagination > li > a {
+	border-color: rgb(212, 239, 189); padding-top: 12px; padding-bottom: 12px; font-size: 14px; border-right-width: 0px; border-left-width: 0px; border-right-style: none; border-left-style: none;
+}
+div.ccm-page .pagination > li > a:hover {
+	background: none;
+}
+div.ccm-page .pagination > li > span {
+	border-color: rgb(212, 239, 189); padding-top: 12px; padding-bottom: 12px; font-size: 14px; border-right-width: 0px; border-left-width: 0px; border-right-style: none; border-left-style: none;
+}
+div.ccm-page .breadcrumb {
+	padding: 0px; background-color: transparent;
+}
+div.ccm-page .breadcrumb a {
+	color: rgb(0, 66, 118) !important;
+}
+div.ccm-page .breadcrumb a:hover {
+	color: rgb(38, 116, 178) !important; text-decoration: none;
+}
+div.ccm-page img.ccm-captcha-image {
+	margin: 0px auto; display: block;
+}
+div.ccm-page main .ccm-search-block-form h3 {
+	text-transform: uppercase; font-family: Titillium Web; font-size: 1.46em;
+}
+div.ccm-page main .ccm-search-block-form input.ccm-search-block-text {
+	padding: 10px; border: 1px solid rgb(230, 230, 230); border-image: none; width: 50%; margin-right: 15px; margin-bottom: 15px;
+}
+div.ccm-page main .ccm-search-block-form input.ccm-search-block-submit:focus {
+	
+}
+div.ccm-page main .ccm-search-block-form #searchResults {
+	margin-top: 15px; border-top-color: rgb(236, 236, 236); border-top-width: 1px; border-top-style: solid;
+}
+div.ccm-page main .ccm-search-block-form #searchResults .searchResult {
+	padding-top: 24px; padding-bottom: 7px; margin-top: 0px; margin-bottom: 0px; border-bottom-color: rgb(236, 236, 236); border-bottom-width: 1px; border-bottom-style: solid;
+}
+div.ccm-page main .ccm-search-block-form #searchResults .searchResult p {
+	color: rgb(110, 110, 110);
+}
+div.ccm-page main .ccm-search-block-form #searchResults .searchResult h3 {
+	text-transform: none; font-family: inherit; margin-top: 0px; margin-bottom: 5px;
+}
+div.ccm-page main .ccm-search-block-form #searchResults .searchResult h3 a {
+	color: rgb(255, 151, 0); font-size: 22px; font-weight: 400;
+}
+div.ccm-page main .ccm-search-block-form #searchResults .searchResult h3 a:hover {
+	color: rgb(255, 213, 171);
+}
+div.ccm-page .btn {
+	padding: 10px 30px; border-radius: 20px; -webkit-border-radius: 20px; -moz-border-radius: 20px; -ms-border-radius: 20px;
+}
+div.ccm-page .btn-success {
+	border-color: rgb(76, 174, 76); color: rgb(255, 255, 255); background-color: rgb(0, 204, 102);
+}
+div.ccm-page .btn-success:hover {
+	border-color: rgb(57, 132, 57); color: rgb(255, 255, 255); background-color: rgb(0, 153, 77);
+}
+div.ccm-page .btn-success:focus {
+	border-color: rgb(57, 132, 57); color: rgb(255, 255, 255); background-color: rgb(0, 153, 77);
+}
+div.ccm-page .btn-success:active {
+	border-color: rgb(57, 132, 57); color: rgb(255, 255, 255); background-color: rgb(0, 153, 77);
+}
+div.ccm-page .btn-success.active {
+	border-color: rgb(57, 132, 57); color: rgb(255, 255, 255); background-color: rgb(0, 153, 77);
+}
+.open > .dropdown-togglediv.ccm-page .btn-success {
+	border-color: rgb(57, 132, 57); color: rgb(255, 255, 255); background-color: rgb(0, 153, 77);
+}
+div.ccm-page .btn-success:active {
+	background-image: none;
+}
+div.ccm-page .btn-success.active {
+	background-image: none;
+}
+.open > .dropdown-togglediv.ccm-page .btn-success {
+	background-image: none;
+}
+div.ccm-page .btn-success.disabled {
+	border-color: rgb(76, 174, 76); background-color: rgb(0, 204, 102);
+}
+div.ccm-page [disabled].btn-success {
+	border-color: rgb(76, 174, 76); background-color: rgb(0, 204, 102);
+}
+fieldset[disabled] div.ccm-page .btn-success {
+	border-color: rgb(76, 174, 76); background-color: rgb(0, 204, 102);
+}
+div.ccm-page .btn-success.disabled:hover {
+	border-color: rgb(76, 174, 76); background-color: rgb(0, 204, 102);
+}
+div.ccm-page [disabled].btn-success:hover {
+	border-color: rgb(76, 174, 76); background-color: rgb(0, 204, 102);
+}
+fieldset[disabled] div.ccm-page .btn-success:hover {
+	border-color: rgb(76, 174, 76); background-color: rgb(0, 204, 102);
+}
+div.ccm-page .btn-success.disabled:focus {
+	border-color: rgb(76, 174, 76); background-color: rgb(0, 204, 102);
+}
+div.ccm-page [disabled].btn-success:focus {
+	border-color: rgb(76, 174, 76); background-color: rgb(0, 204, 102);
+}
+fieldset[disabled] div.ccm-page .btn-success:focus {
+	border-color: rgb(76, 174, 76); background-color: rgb(0, 204, 102);
+}
+div.ccm-page .btn-success.disabled:active {
+	border-color: rgb(76, 174, 76); background-color: rgb(0, 204, 102);
+}
+div.ccm-page [disabled].btn-success:active {
+	border-color: rgb(76, 174, 76); background-color: rgb(0, 204, 102);
+}
+fieldset[disabled] div.ccm-page .btn-success:active {
+	border-color: rgb(76, 174, 76); background-color: rgb(0, 204, 102);
+}
+div.ccm-page .btn-success.disabled.active {
+	border-color: rgb(76, 174, 76); background-color: rgb(0, 204, 102);
+}
+div.ccm-page [disabled].btn-success.active {
+	border-color: rgb(76, 174, 76); background-color: rgb(0, 204, 102);
+}
+fieldset[disabled] div.ccm-page .btn-success.active {
+	border-color: rgb(76, 174, 76); background-color: rgb(0, 204, 102);
+}
+div.ccm-page .btn-success .badge {
+	color: rgb(0, 204, 102); background-color: rgb(255, 255, 255);
+}
+div.ccm-page .btn-default {
+	border-color: rgb(219, 219, 219); color: rgb(110, 110, 110); background-color: rgb(255, 255, 255);
+}
+div.ccm-page .btn-default:hover {
+	border-color: rgb(188, 188, 188); color: rgb(110, 110, 110); background-color: rgb(230, 230, 230);
+}
+div.ccm-page .btn-default:focus {
+	border-color: rgb(188, 188, 188); color: rgb(110, 110, 110); background-color: rgb(230, 230, 230);
+}
+div.ccm-page .btn-default:active {
+	border-color: rgb(188, 188, 188); color: rgb(110, 110, 110); background-color: rgb(230, 230, 230);
+}
+div.ccm-page .btn-default.active {
+	border-color: rgb(188, 188, 188); color: rgb(110, 110, 110); background-color: rgb(230, 230, 230);
+}
+.open > .dropdown-togglediv.ccm-page .btn-default {
+	border-color: rgb(188, 188, 188); color: rgb(110, 110, 110); background-color: rgb(230, 230, 230);
+}
+div.ccm-page .btn-default:active {
+	background-image: none;
+}
+div.ccm-page .btn-default.active {
+	background-image: none;
+}
+.open > .dropdown-togglediv.ccm-page .btn-default {
+	background-image: none;
+}
+div.ccm-page .btn-default.disabled {
+	border-color: rgb(219, 219, 219); background-color: rgb(255, 255, 255);
+}
+div.ccm-page [disabled].btn-default {
+	border-color: rgb(219, 219, 219); background-color: rgb(255, 255, 255);
+}
+fieldset[disabled] div.ccm-page .btn-default {
+	border-color: rgb(219, 219, 219); background-color: rgb(255, 255, 255);
+}
+div.ccm-page .btn-default.disabled:hover {
+	border-color: rgb(219, 219, 219); background-color: rgb(255, 255, 255);
+}
+div.ccm-page [disabled].btn-default:hover {
+	border-color: rgb(219, 219, 219); background-color: rgb(255, 255, 255);
+}
+fieldset[disabled] div.ccm-page .btn-default:hover {
+	border-color: rgb(219, 219, 219); background-color: rgb(255, 255, 255);
+}
+div.ccm-page .btn-default.disabled:focus {
+	border-color: rgb(219, 219, 219); background-color: rgb(255, 255, 255);
+}
+div.ccm-page [disabled].btn-default:focus {
+	border-color: rgb(219, 219, 219); background-color: rgb(255, 255, 255);
+}
+fieldset[disabled] div.ccm-page .btn-default:focus {
+	border-color: rgb(219, 219, 219); background-color: rgb(255, 255, 255);
+}
+div.ccm-page .btn-default.disabled:active {
+	border-color: rgb(219, 219, 219); background-color: rgb(255, 255, 255);
+}
+div.ccm-page [disabled].btn-default:active {
+	border-color: rgb(219, 219, 219); background-color: rgb(255, 255, 255);
+}
+fieldset[disabled] div.ccm-page .btn-default:active {
+	border-color: rgb(219, 219, 219); background-color: rgb(255, 255, 255);
+}
+div.ccm-page .btn-default.disabled.active {
+	border-color: rgb(219, 219, 219); background-color: rgb(255, 255, 255);
+}
+div.ccm-page [disabled].btn-default.active {
+	border-color: rgb(219, 219, 219); background-color: rgb(255, 255, 255);
+}
+fieldset[disabled] div.ccm-page .btn-default.active {
+	border-color: rgb(219, 219, 219); background-color: rgb(255, 255, 255);
+}
+div.ccm-page .btn-default .badge {
+	color: rgb(255, 255, 255); background-color: rgb(110, 110, 110);
+}
+div.ccm-page div.block-sidebar-padded {
+	padding: 25px 40px;
+}
+div.ccm-page div.block-sidebar-padded p {
+	font-size: 0.85em;
+}
+div.ccm-page div.block-sidebar-wrapped {
+	padding: 25px 40px; font-size: 0.85em; background-color: rgb(248, 250, 241);
+}
+div.ccm-page div.block-sidebar-wrapped h3 {
+	margin: 0px; font-size: 14px; font-weight: normal;
+}
+div.ccm-page div.block-sidebar-wrapped a {
+	color: rgb(0, 66, 118) !important;
+}
+div.ccm-page div.block-sidebar-wrapped a:hover {
+	color: rgb(38, 116, 178) !important; text-decoration: none;
+}
+div.ccm-page div.block-sidebar-wrapped div.ccm-block-page-list-page-entry {
+	padding-bottom: 0px; margin-bottom: 0px; border-bottom-color: currentColor; border-bottom-width: 0px; border-bottom-style: none;
+}
+div.ccm-page div.block-sidebar-wrapped ul {
+	margin: 0px; padding: 0px; color: rgb(159, 169, 173); list-style-type: none;
+}
+div.ccm-page div.block-sidebar-wrapped ul li {
+	margin-bottom: 12px;
+}
+div.ccm-page div.block-sidebar-wrapped ul ul {
+	padding-left: 20px; font-size: 1em;
+}
+div.ccm-page div.block-sidebar-wrapped + div.block-sidebar-wrapped {
+	padding-top: 0px;
+}
+div.ccm-page div.block-sidebar-wrapped div.ccm-block-share-this-page {
+	margin: -15px -40px -25px; padding: 15px 40px 10px; font-size: 1em; border-top-color: rgb(236, 236, 236); border-top-width: 1px; border-top-style: solid;
+}
+div.ccm-page div.block-sidebar-wrapped div.ccm-block-share-this-page a {
+	color: rgb(209, 209, 209) !important;
+}
+div.ccm-page div.block-sidebar-wrapped div.ccm-block-share-this-page a:hover {
+	color: rgb(0, 66, 118) !important;
+}
+div.ccm-page div.blog-entry-list div.ccm-block-page-list-page-entry-horizontal {
+	margin-right: -15px; margin-left: -15px;
+}
+div.ccm-page div.blog-entry-list div.ccm-block-page-list-page-entry-horizontal div.ccm-block-page-list-page-entry-thumbnail {
+	width: 16.66%; padding-top: 7px; padding-right: 15px; padding-left: 15px; float: left; position: relative; min-height: 1px;
+}
+div.ccm-page div.blog-entry-list div.ccm-block-page-list-page-entry-horizontal div.ccm-block-page-list-page-entry-thumbnail img {
+	height: auto; display: block; max-width: 100%;
+}
+div.ccm-page div.blog-entry-list div.ccm-block-page-list-page-entry-horizontal div.ccm-block-page-list-page-entry-text {
+	width: 83.33%; padding-right: 15px; padding-left: 15px; float: left; position: relative; min-height: 1px;
+}
+div.ccm-page div.blog-entry-list div.ccm-block-page-list-date {
+	color: rgb(174, 174, 174); font-size: 0.8em; margin-bottom: 10px;
+}
+div.ccm-page div.blog-entry-list div.ccm-block-page-list-title {
+	margin: 0px; color: rgb(26, 26, 26); text-transform: none; line-height: 1.4285; font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; font-size: 1.46em; font-weight: 700;
+}
+div.ccm-page div.blog-entry-list div.ccm-block-page-list-title a {
+	color: rgb(26, 26, 26);
+}
+div.ccm-page div.blog-entry-list div.ccm-block-page-list-title a:hover {
+	color: rgb(255, 151, 0); text-decoration: none;
+}
+div.ccm-page div.recent-blog-entry div.ccm-block-page-list-title {
+	color: rgb(79, 88, 92); text-transform: none; line-height: 1.4285; font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; font-size: 1.46em; font-weight: 700; margin-top: 0px; margin-bottom: 10px;
+}
+div.ccm-page div.recent-blog-entry div.ccm-block-page-list-title a {
+	color: rgb(79, 88, 92);
+}
+div.ccm-page div.recent-blog-entry div.ccm-block-page-list-title a:hover {
+	color: rgb(66, 139, 202); text-decoration: none;
+}
+div.ccm-page div.recent-blog-entry div.ccm-block-page-list-page-entry {
+	padding-bottom: 0px; margin-bottom: 0px; border-bottom-color: currentColor; border-bottom-width: 0px; border-bottom-style: none;
+}
+div.ccm-page div.area-content-accent {
+	padding: 65px 0px; margin-top: 80px; margin-bottom: -80px; background-color: rgb(248, 250, 241);
+}
+div.ccm-page div.area-content-accent .title-caps {
+	color: rgb(152, 107, 71) !important;
+}
+div.ccm-page div.area-content-accent .title-caps-bold {
+	color: rgb(152, 107, 71) !important;
+}
+div.ccm-page div.area-content-accent h3 {
+	color: rgb(152, 107, 71) !important;
+}
+div.ccm-page div.testimonial-bio {
+	margin-bottom: 60px;
+}
+div.ccm-page div.testimonial-bio div.ccm-block-testimonial-wrapper {
+	margin-top: 0px; margin-bottom: 0px;
+}
+div.ccm-page div.testimonial-bio div.ccm-block-testimonial-wrapper div.ccm-block-testimonial {
+	margin-right: 0px; margin-left: 0px;
+}
+div.ccm-page div.testimonial-bio div.ccm-block-testimonial-wrapper div.ccm-block-testimonial div.ccm-block-testimonial-image {
+	padding: 0px; width: auto; margin-bottom: 30px; float: none;
+}
+div.ccm-page div.testimonial-bio div.ccm-block-testimonial-wrapper div.ccm-block-testimonial div.ccm-block-testimonial-image img {
+	border-radius: 0px; -webkit-border-radius: 0px; -moz-border-radius: 0px; -ms-border-radius: 0px;
+}
+div.ccm-page div.testimonial-bio div.ccm-block-testimonial-wrapper div.ccm-block-testimonial div.ccm-block-testimonial-text {
+	padding: 0px; float: none;
+}
+div.ccm-page div.testimonial-bio + div.testimonial-bio {
+	margin-bottom: 0px;
+}
+div.ccm-page div:only-child.testimonial-bio {
+	margin-bottom: 0px;
+}
+div.ccm-page .ccm-faq-container {
+	margin-right: -15px; margin-left: -15px;
+}
+div.ccm-page .ccm-faq-block-links {
+	padding-right: 15px; padding-left: 15px; position: relative; min-height: 1px;
+}
+@media all and (min-width:1200px)
+{
+div.ccm-page .ccm-faq-block-links {
+	width: 25%; float: left;
+}
+}
+div.ccm-page .ccm-faq-block-links a {
+	margin-bottom: 10px; display: block;
+}
+div.ccm-page .ccm-faq-block-entries {
+	padding-right: 15px; padding-left: 15px; position: relative; min-height: 1px;
+}
+div.ccm-page .ccm-faq-block-entries h3 {
+	margin-top: 0px;
+}
+div.ccm-page .ccm-faq-block-entries div.faq-entry-content {
+	margin-bottom: 50px;
+}
+@media all and (min-width:1200px)
+{
+div.ccm-page .ccm-faq-block-entries {
+	width: 66.66%; float: left;
+}
+}
+@media all and (min-width:1200px)
+{
+div.ccm-page .ccm-faq-block-entries {
+	margin-left: 8.33%;
+}
+}
+div.ccm-page div.ccm-block-feature-item {
+	padding-left: 25px; margin-bottom: 40px; position: relative;
+}
+div.ccm-page div.ccm-block-feature-item h4 {
+	color: rgb(169, 0, 0);
+}
+div.ccm-page div.ccm-block-feature-item i {
+	color: rgb(169, 0, 0);
+}
+div.ccm-page div.ccm-block-feature-item i {
+	left: 0px; top: 3px; position: absolute;
+}
+div.ccm-page div.feature-home-page div.ccm-block-feature-item h4 {
+	color: rgb(26, 26, 26);
+}
+div.ccm-page div.feature-home-page div.ccm-block-feature-item i {
+	color: rgb(26, 26, 26);
+}
+div.ccm-page div.feature-home-page div.ccm-block-feature-item h4 {
+	font-size: 1.5em;
+}
+div.ccm-page div.feature-home-page div.ccm-block-feature-item i {
+	top: 1px; color: rgb(26, 26, 26); font-size: 1.3em;
+}
+div.ccm-page div.feature-home-page div.ccm-block-feature-item {
+	padding-left: 45px;
+}
+div.ccm-page div.ccm-block-feature-item-hover-wrapper {
+	text-align: center;
+}
+div.ccm-page div.ccm-block-feature-item-hover-wrapper div.ccm-block-feature-item-hover-title {
+	color: rgb(136, 136, 136); font-size: 1.5em; font-weight: 300; margin-top: 20px;
+}
+div.ccm-page div.ccm-block-feature-item-hover {
+	margin: 0px auto; display: table;
+}
+div.ccm-page div.ccm-block-feature-item-hover div.ccm-block-feature-item-hover-icon {
+	margin: 0px auto; border-radius: 50%; border: 1px solid rgb(212, 212, 212); transition:0.2s linear; border-image: none; width: 200px; height: 200px; text-align: center; vertical-align: middle; display: table-cell; cursor: help; -webkit-transition: all .2s linear; -o-transition: all .2s linear; -webkit-border-radius: 50%; -moz-border-radius: 50%; -ms-border-radius: 50%;
+}
+div.ccm-page div.ccm-block-feature-item-hover div.ccm-block-feature-item-hover-icon i {
+	color: rgb(255, 151, 0); font-size: 2em; margin-top: 3px;
+}
+@media all and (min-width:768px)
+{
+div.ccm-page div.ccm-block-feature-item-hover div.ccm-block-feature-item-hover-icon {
+	width: 80px; height: 80px;
+}
+}
+@media all and (min-width:992px)
+{
+div.ccm-page div.ccm-block-feature-item-hover div.ccm-block-feature-item-hover-icon {
+	width: 110px; height: 110px;
+}
+}
+@media all and (min-width:1200px)
+{
+div.ccm-page div.ccm-block-feature-item-hover div.ccm-block-feature-item-hover-icon {
+	width: 134px; height: 134px;
+}
+}
+div.ccm-page div.ccm-block-feature-item-hover-wrapper:hover div.ccm-block-feature-item-hover-icon {
+	background: rgb(255, 234, 204); border: 1px solid rgb(255, 213, 153); border-image: none;
+}
+div.ccm-page .ccm-image-slider-container {
+	padding-top: 20px; margin-bottom: 70px; border-bottom-color: rgb(240, 238, 225); border-bottom-width: 2px; border-bottom-style: solid; background-repeat: repeat; background-color: transparent;
+}
+div.ccm-page .ccm-image-slider-container .ccm-image-slider {
+	padding-right: 15px; padding-left: 15px; margin-right: auto; margin-left: auto;
+}
+div.ccm-page .ccm-image-slider-container .ccm-image-slider .rslides li {
+	max-height: 220px;
+}
+@media all and (max-width:767px) and (min-width:480px)
+{
+div.ccm-page .ccm-image-slider-container .ccm-image-slider {
+	width: 100%;
+}
+div.ccm-page .ccm-image-slider-container .ccm-image-slider .rslides li {
+	max-height: 320px;
+}
+}
+@media all and (min-width:768px)
+{
+div.ccm-page .ccm-image-slider-container .ccm-image-slider {
+	width: 750px;
+}
+div.ccm-page .ccm-image-slider-container .ccm-image-slider .rslides li {
+	max-height: 350px;
+}
+}
+@media all and (min-width:992px)
+{
+div.ccm-page .ccm-image-slider-container .ccm-image-slider {
+	width: 970px;
+}
+div.ccm-page .ccm-image-slider-container .ccm-image-slider .rslides li {
+	max-height: 429px;
+}
+}
+@media all and (min-width:1200px)
+{
+div.ccm-page .ccm-image-slider-container .ccm-image-slider {
+	width: 1170px;
+}
+div.ccm-page .ccm-image-slider-container .ccm-image-slider .rslides li {
+	max-height: 480px;
+}
+}
+div.ccm-page .ccm-image-slider-container .ccm-image-slider::before {
+	display: table; content: " ";
+}
+div.ccm-page .ccm-image-slider-container .ccm-image-slider::after {
+	display: table; content: " ";
+}
+div.ccm-page .ccm-image-slider-container .ccm-image-slider::after {
+	clear: both;
+}
+div.ccm-page .ccm-image-slider-container .ccm-image-slider-inner {
+	padding-right: 15px; padding-left: 15px; margin-right: -15px; margin-left: -15px; position: relative; min-height: 1px;
+}
+@media all and (min-width:1200px)
+{
+div.ccm-page .ccm-image-slider-container .ccm-image-slider-inner {
+	width: 100%; float: left;
+}
+}
+div.ccm-page .ccm-image-slider-container .rslides_nav {
+	background: rgba(0, 0, 0, 0.92); border-radius: 4px; width: 38px; height: 38px; margin-top: -20px; opacity: 1; -webkit-border-radius: 4px; -moz-border-radius: 4px; -ms-border-radius: 4px;
+}
+div.ccm-page .ccm-image-slider-container .rslides_nav.next {
+	transition:background 0.35s ease-in-out; right: 40px; color: white; -webkit-transition: background .35s ease-in-out; -o-transition: background .35s ease-in-out;
+}
+div.ccm-page .ccm-image-slider-container .rslides_nav.next:hover {
+	background: white; color: black; text-decoration: none;
+}
+div.ccm-page .ccm-image-slider-container .rslides_nav.next::before {
+	transition:background 0.35s ease-in-out; font-family: FontAwesome; font-size: 16px; margin-top: 10px; margin-left: 14px; display: block; content: "\f054"; -webkit-transition: background .35s ease-in-out; -o-transition: background .35s ease-in-out;
+}
+div.ccm-page .ccm-image-slider-container .rslides_nav.prev {
+	transition:background 0.35s ease-in-out; left: 40px; color: white; -webkit-transition: background .35s ease-in-out; -o-transition: background .35s ease-in-out;
+}
+div.ccm-page .ccm-image-slider-container .rslides_nav.prev:hover {
+	background: white; color: black; text-decoration: none;
+}
+div.ccm-page .ccm-image-slider-container .rslides_nav.prev::after {
+	transition:background 0.35s ease-in-out; font-family: FontAwesome; font-size: 16px; margin-top: 10px; margin-left: 12px; display: block; content: "\f053"; -webkit-transition: background .35s ease-in-out; -o-transition: background .35s ease-in-out;
+}
+div.ccm-page .ccm-image-slider-container .rslides_tabs {
+	padding-top: 15px; padding-bottom: 10px; padding-left: 0px;
+}
+div.ccm-page .ccm-image-slider-container .rslides_tabs li {
+	margin-right: 5px; display: inline-block; list-style-type: none;
+}
+div.ccm-page .ccm-image-slider-container .rslides_tabs li.rslides_here a {
+	background: rgb(117, 202, 42);
+}
+div.ccm-page .ccm-image-slider-container .rslides_tabs li a {
+	background: rgb(204, 204, 201); border-radius: 30px; width: 15px; height: 15px; text-indent: 99px; overflow: hidden; margin-right: 10px; display: inline-block; -webkit-border-radius: 30px; -moz-border-radius: 30px; -ms-border-radius: 30px;
+}
+div.ccm-page .ccm-image-slider-container .ccm-image-slider-text h2 {
+	color: rgb(117, 202, 42); font-family: Titillium Web; font-size: 3.2em; font-weight: 200; margin-bottom: 5%;
+}
+div.ccm-page .ccm-image-slider-container .ccm-image-slider-text p {
+	width: 80%; color: rgb(110, 110, 110); font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; font-size: 1.1em; font-weight: 400;
+}
+div.ccm-page .ccm-image-slider-container.ccm-block-image-slider-arrows .ccm-image-slider-inner {
+	padding-right: 15px; padding-left: 15px; margin-right: -15px; margin-bottom: 60px; margin-left: -15px; position: relative; min-height: 1px;
+}
+@media all and (min-width:1200px)
+{
+div.ccm-page .ccm-image-slider-container.ccm-block-image-slider-arrows .ccm-image-slider-inner {
+	margin-left: 8.33%;
+}
+}
+@media all and (min-width:1200px)
+{
+div.ccm-page .ccm-image-slider-container.ccm-block-image-slider-arrows .ccm-image-slider-inner {
+	width: 83.33%; float: left;
+}
+}
+div.ccm-page .image-right-tilt .ccm-image-block {
+	margin: 0px auto; display: block; transform: rotate(3deg); -webkit-transform: rotate(3deg); -moz-transform: rotate(3deg);
+}
+div.ccm-page .image-circle .ccm-image-block {
+	border-radius: 50%;
+}
+div.ccm-page div.ccm-block-next-previous-header {
+	font-size: 15px;
+}
+div.ccm-page div.page-list-with-buttons div.ccm-block-page-list-page-entry {
+	padding-top: 50px; padding-bottom: 0px; margin-top: 50px; margin-bottom: 0px; border-top-color: rgb(217, 217, 217); border-bottom-color: currentColor; border-top-width: 1px; border-bottom-width: 0px; border-top-style: solid; border-bottom-style: none;
+}
+div.ccm-page div.page-list-with-buttons div.ccm-block-page-list-page-entry div.ccm-block-page-list-title {
+	color: rgb(142, 140, 139); text-transform: none; line-height: 1.4285; font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; font-size: 1em; font-weight: 700;
+}
+div.ccm-page div.page-list-with-buttons div:first-child.ccm-block-page-list-page-entry {
+	padding-top: 0px; margin-top: 0px; border-top-color: currentColor; border-top-width: medium; border-top-style: none;
+}
+div.ccm-page div.page-list-with-buttons div.ccm-block-page-list-page-entry a.ccm-block-page-list-read-more {
+	padding: 10px 30px; border-radius: 20px; border: 1px solid rgb(219, 219, 219); border-image: none; color: rgb(110, 110, 110); display: inline-block; background-color: rgb(255, 255, 255); -webkit-border-radius: 20px; -moz-border-radius: 20px; -ms-border-radius: 20px;
+}
+div.ccm-page div.page-list-with-buttons div.ccm-block-page-list-page-entry a.ccm-block-page-list-read-more:hover {
+	border-color: rgb(188, 188, 188); color: rgb(110, 110, 110); background-color: rgb(230, 230, 230);
+}
+div.ccm-page div.page-list-with-buttons div.ccm-block-page-list-page-entry a.ccm-block-page-list-read-more:focus {
+	border-color: rgb(188, 188, 188); color: rgb(110, 110, 110); background-color: rgb(230, 230, 230);
+}
+div.ccm-page div.page-list-with-buttons div.ccm-block-page-list-page-entry a.ccm-block-page-list-read-more:active {
+	border-color: rgb(188, 188, 188); color: rgb(110, 110, 110); background-color: rgb(230, 230, 230);
+}
+div.ccm-page div.page-list-with-buttons div.ccm-block-page-list-page-entry a.ccm-block-page-list-read-more.active {
+	border-color: rgb(188, 188, 188); color: rgb(110, 110, 110); background-color: rgb(230, 230, 230);
+}
+.open > .dropdown-togglediv.ccm-page div.page-list-with-buttons div.ccm-block-page-list-page-entry a.ccm-block-page-list-read-more {
+	border-color: rgb(188, 188, 188); color: rgb(110, 110, 110); background-color: rgb(230, 230, 230);
+}
+div.ccm-page div.page-list-with-buttons div.ccm-block-page-list-page-entry a.ccm-block-page-list-read-more:active {
+	background-image: none;
+}
+div.ccm-page div.page-list-with-buttons div.ccm-block-page-list-page-entry a.ccm-block-page-list-read-more.active {
+	background-image: none;
+}
+.open > .dropdown-togglediv.ccm-page div.page-list-with-buttons div.ccm-block-page-list-page-entry a.ccm-block-page-list-read-more {
+	background-image: none;
+}
+div.ccm-page div.page-list-with-buttons div.ccm-block-page-list-page-entry a.ccm-block-page-list-read-more.disabled {
+	border-color: rgb(219, 219, 219); background-color: rgb(255, 255, 255);
+}
+div.ccm-page div.page-list-with-buttons div.ccm-block-page-list-page-entry a[disabled].ccm-block-page-list-read-more {
+	border-color: rgb(219, 219, 219); background-color: rgb(255, 255, 255);
+}
+fieldset[disabled] div.ccm-page div.page-list-with-buttons div.ccm-block-page-list-page-entry a.ccm-block-page-list-read-more {
+	border-color: rgb(219, 219, 219); background-color: rgb(255, 255, 255);
+}
+div.ccm-page div.page-list-with-buttons div.ccm-block-page-list-page-entry a.ccm-block-page-list-read-more.disabled:hover {
+	border-color: rgb(219, 219, 219); background-color: rgb(255, 255, 255);
+}
+div.ccm-page div.page-list-with-buttons div.ccm-block-page-list-page-entry a[disabled].ccm-block-page-list-read-more:hover {
+	border-color: rgb(219, 219, 219); background-color: rgb(255, 255, 255);
+}
+fieldset[disabled] div.ccm-page div.page-list-with-buttons div.ccm-block-page-list-page-entry a.ccm-block-page-list-read-more:hover {
+	border-color: rgb(219, 219, 219); background-color: rgb(255, 255, 255);
+}
+div.ccm-page div.page-list-with-buttons div.ccm-block-page-list-page-entry a.ccm-block-page-list-read-more.disabled:focus {
+	border-color: rgb(219, 219, 219); background-color: rgb(255, 255, 255);
+}
+div.ccm-page div.page-list-with-buttons div.ccm-block-page-list-page-entry a[disabled].ccm-block-page-list-read-more:focus {
+	border-color: rgb(219, 219, 219); background-color: rgb(255, 255, 255);
+}
+fieldset[disabled] div.ccm-page div.page-list-with-buttons div.ccm-block-page-list-page-entry a.ccm-block-page-list-read-more:focus {
+	border-color: rgb(219, 219, 219); background-color: rgb(255, 255, 255);
+}
+div.ccm-page div.page-list-with-buttons div.ccm-block-page-list-page-entry a.ccm-block-page-list-read-more.disabled:active {
+	border-color: rgb(219, 219, 219); background-color: rgb(255, 255, 255);
+}
+div.ccm-page div.page-list-with-buttons div.ccm-block-page-list-page-entry a[disabled].ccm-block-page-list-read-more:active {
+	border-color: rgb(219, 219, 219); background-color: rgb(255, 255, 255);
+}
+fieldset[disabled] div.ccm-page div.page-list-with-buttons div.ccm-block-page-list-page-entry a.ccm-block-page-list-read-more:active {
+	border-color: rgb(219, 219, 219); background-color: rgb(255, 255, 255);
+}
+div.ccm-page div.page-list-with-buttons div.ccm-block-page-list-page-entry a.ccm-block-page-list-read-more.disabled.active {
+	border-color: rgb(219, 219, 219); background-color: rgb(255, 255, 255);
+}
+div.ccm-page div.page-list-with-buttons div.ccm-block-page-list-page-entry a[disabled].ccm-block-page-list-read-more.active {
+	border-color: rgb(219, 219, 219); background-color: rgb(255, 255, 255);
+}
+fieldset[disabled] div.ccm-page div.page-list-with-buttons div.ccm-block-page-list-page-entry a.ccm-block-page-list-read-more.active {
+	border-color: rgb(219, 219, 219); background-color: rgb(255, 255, 255);
+}
+div.ccm-page div.page-list-with-buttons div.ccm-block-page-list-page-entry a.ccm-block-page-list-read-more .badge {
+	color: rgb(255, 255, 255); background-color: rgb(110, 110, 110);
+}
+div.ccm-page div.page-list-with-buttons div.ccm-block-page-list-page-entry a.ccm-block-page-list-read-more:hover {
+	text-decoration: none;
+}
+div.ccm-page div.ccm-block-page-list-thumbnail-grid-wrapper {
+	margin-right: -15px; margin-left: -15px;
+}
+div.ccm-page div.ccm-block-page-list-thumbnail-grid-wrapper div.ccm-block-page-list-page-entry-grid-item {
+	overflow: hidden; padding-right: 15px; padding-left: 15px; margin-bottom: 30px; position: relative; min-height: 1px;
+}
+@media all and (min-width:768px)
+{
+div.ccm-page div.ccm-block-page-list-thumbnail-grid-wrapper div.ccm-block-page-list-page-entry-grid-item {
+	width: 33.33%; float: left;
+}
+}
+@media all and (min-width:768px)
+{
+div.ccm-page div.ccm-block-page-list-thumbnail-grid-wrapper div.ccm-block-page-list-page-entry-grid-item {
+	min-height: 147px;
+}
+div.ccm-page div.ccm-block-page-list-thumbnail-grid-wrapper div.ccm-block-page-list-page-entry-grid-item img {
+	width: 100%; height: 147px;
+}
+}
+@media all and (min-width:992px)
+{
+div.ccm-page div.ccm-block-page-list-thumbnail-grid-wrapper div.ccm-block-page-list-page-entry-grid-item {
+	min-height: 193px;
+}
+div.ccm-page div.ccm-block-page-list-thumbnail-grid-wrapper div.ccm-block-page-list-page-entry-grid-item img {
+	width: 100%; height: 193px;
+}
+}
+@media all and (min-width:1200px)
+{
+div.ccm-page div.ccm-block-page-list-thumbnail-grid-wrapper div.ccm-block-page-list-page-entry-grid-item {
+	min-height: 240px;
+}
+div.ccm-page div.ccm-block-page-list-thumbnail-grid-wrapper div.ccm-block-page-list-page-entry-grid-item img {
+	width: 100%; height: 240px;
+}
+}
+div.ccm-page div.ccm-block-page-list-thumbnail-grid-wrapper div.ccm-block-page-list-page-entry-grid-thumbnail-hover {
+	background-color: rgba(0, 66, 118, 0.7);
+}
+div.ccm-page div.ccm-block-page-list-thumbnail-grid-wrapper i.ccm-block-page-list-page-entry-grid-thumbnail-icon {
+	margin: 0px auto 10px; display: block;
+}
+div.ccm-page div.ccm-block-page-list-thumbnail-grid-wrapper i.ccm-block-page-list-page-entry-grid-thumbnail-icon::before {
+	font-family: FontAwesome; content: "\f064";
+}
+div.ccm-page div.ccm-block-page-list-thumbnail-grid-wrapper div.ccm-block-page-list-title {
+	color: rgb(79, 88, 92); text-transform: none; line-height: 1.4285; font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; font-size: 1.05em; font-weight: 700; margin-top: 30px;
+}
+div.ccm-page a.ccm-block-page-list-rss-feed {
+	color: rgb(209, 209, 209); font-size: 1.5em;
+}
+div.ccm-page a.ccm-block-page-list-rss-feed:hover {
+	color: rgb(202, 95, 42);
+}
+div.ccm-page div.ccm-block-page-list-page-entry-horizontal::before {
+	display: table; content: " ";
+}
+div.ccm-page div.ccm-block-page-list-page-entry-horizontal::after {
+	display: table; content: " ";
+}
+div.ccm-page div.ccm-block-page-list-page-entry-horizontal::after {
+	clear: both;
+}
+div.ccm-page div.ccm-block-page-list-page-entry-horizontal {
+	padding-bottom: 30px; margin-bottom: 30px; border-bottom-color: rgb(236, 236, 236); border-bottom-width: 1px; border-bottom-style: solid;
+}
+div.ccm-page div.ccm-block-page-list-page-entry {
+	padding-bottom: 30px; margin-bottom: 30px; border-bottom-color: rgb(236, 236, 236); border-bottom-width: 1px; border-bottom-style: solid;
+}
+div.ccm-page div.ccm-block-page-list-page-entry-read-more {
+	margin-top: 20px;
+}
+div.ccm-page div.ccm-block-page-list-no-pages {
+	text-align: center; color: rgb(159, 169, 173); font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; font-size: 1em;
+}
+div.ccm-page div.col-sidebar div.block-sidebar-wrapped div.ccm-block-page-list-wrapper {
+	margin: 0px;
+}
+div.ccm-page div.col-sidebar div.ccm-block-page-list-wrapper {
+	margin: 25px 40px; font-size: 0.85em;
+}
+div.ccm-page div.col-sidebar div.ccm-block-page-list-wrapper a.ccm-block-page-list-rss-feed {
+	font-size: 0.85em;
+}
+div.ccm-page div.col-sidebar div.ccm-block-page-list-wrapper div.ccm-block-page-list-page-entry {
+	padding: 0px; border: 0px currentColor; border-image: none; margin-bottom: 10px;
+}
+div.ccm-page div.col-sidebar div.ccm-block-page-list-wrapper div.ccm-block-page-list-page-entry a {
+	font-weight: normal;
+}
+div.ccm-page div.ccm-block-page-list-header {
+	font-size: 15px;
+}
+div.ccm-page div.ccm-block-page-attribute-display-wrapper {
+	color: rgb(174, 174, 174); padding-top: 20px; padding-bottom: 20px; border-top-color: rgb(236, 236, 236); border-top-width: 1px; border-top-style: solid;
+}
+div.ccm-page div.ccm-block-page-attribute-display-wrapper .ccm-block-page-attribute-display-title {
+	color: rgb(117, 202, 42); display: block;
+}
+div.ccm-page div:last-child.ccm-block-page-attribute-display-wrapper {
+	border-bottom-color: rgb(236, 236, 236); border-bottom-width: 1px; border-bottom-style: solid;
+}
+div.ccm-page h1.page-title {
+	color: rgb(128, 128, 128); text-transform: uppercase; line-height: 1.4285; padding-top: 30px; padding-bottom: 30px; font-family: Titillium Web; font-size: 2em; font-weight: 700;
+}
+div.ccm-page.page-type-portfolio-project h1.page-title {
+	color: rgb(26, 26, 26); text-transform: none; line-height: 1.4285; font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; font-size: 2em; font-weight: 700; margin-bottom: 40px; border-bottom-color: rgb(236, 236, 236); border-bottom-width: 1px; border-bottom-style: solid;
+}
+div.ccm-page div.ccm-block-page-title-byline {
+	padding-bottom: 40px; margin-bottom: 40px; border-bottom-color: rgb(236, 236, 236); border-bottom-width: 1px; border-bottom-style: solid;
+}
+div.ccm-page div.ccm-block-page-title-byline h1.page-title {
+	color: rgb(26, 26, 26); text-transform: none; line-height: 1.4285; padding-top: 1em; padding-bottom: 0px; font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; font-size: 2em; font-weight: 700; margin-bottom: 0px;
+}
+div.ccm-page div.ccm-block-page-title-byline span.page-date {
+	margin-right: 2em;
+}
+div.ccm-page div.ccm-block-page-title-byline span.page-date {
+	color: rgb(159, 169, 173); font-size: 0.85em; font-style: italic;
+}
+div.ccm-page div.ccm-block-page-title-byline span.page-author {
+	color: rgb(159, 169, 173); font-size: 0.85em; font-style: italic;
+}
+div.ccm-page div.ccm-block-testimonial {
+	margin-right: -15px; margin-left: -15px;
+}
+div.ccm-page div.ccm-block-testimonial div.ccm-block-testimonial-image {
+	padding-right: 15px; padding-left: 15px; position: relative; min-height: 1px;
+}
+@media all and (min-width:768px)
+{
+div.ccm-page div.ccm-block-testimonial div.ccm-block-testimonial-image {
+	width: 25%; float: left;
+}
+}
+div.ccm-page div.ccm-block-testimonial div.ccm-block-testimonial-text {
+	padding-right: 15px; padding-left: 15px; position: relative; min-height: 1px;
+}
+@media all and (min-width:768px)
+{
+div.ccm-page div.ccm-block-testimonial div.ccm-block-testimonial-text {
+	width: 75%; float: left;
+}
+}
+div.ccm-page div.ccm-block-testimonial img {
+	border-radius: 50%; height: auto; display: block; max-width: 100%; -webkit-border-radius: 50%; -moz-border-radius: 50%; -ms-border-radius: 50%;
+}
+div.ccm-page div.ccm-block-testimonial div.ccm-block-testimonial-name {
+	color: rgb(79, 88, 92); text-transform: none; line-height: 1.4285; font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; font-size: 1.05em; font-weight: 700;
+}
+div.ccm-page div.ccm-block-testimonial div.ccm-block-testimonial-position {
+	color: rgb(0, 66, 118);
+}
+div.ccm-page div.ccm-block-testimonial div.ccm-block-testimonial-position a {
+	color: rgb(0, 66, 118); text-decoration: underline;
+}
+div.ccm-page div.ccm-block-testimonial div.ccm-block-testimonial-paragraph {
+	margin-top: 20px;
+}
+div.ccm-page div.ccm-block-testimonial-wrapper {
+	margin-top: 60px; margin-bottom: 60px;
+}
+div.ccm-page div.ccm-block-testimonial-wrapper::before {
+	display: table; content: " ";
+}
+div.ccm-page div.ccm-block-testimonial-wrapper::after {
+	display: table; content: " ";
+}
+div.ccm-page div.ccm-block-testimonial-wrapper::after {
+	clear: both;
+}
+@media all and (max-width:767px)
+{
+div.ccm-page .ccm-block-testimonial-image img {
+	margin: 10px auto;
+}
+}
+div.ccm-page div.col-sidebar div.ccm-block-tags-wrapper {
+	margin: 25px 40px;
+}
+div.ccm-page div.ccm-block-tags-header {
+	font-size: 15px;
+}
+div.ccm-page div.ccm-block-tags-wrapper a:hover {
+	text-decoration: none;
+}
+div.ccm-page span.ccm-block-tags-tag {
+	border: 1px solid rgb(209, 209, 209); color: rgb(110, 110, 110); background-color: rgb(255, 255, 255);
+}
+div.ccm-page div.ccm-block-tags-wrapper a:hover span.ccm-block-tags-tag {
+	border-color: rgb(202, 95, 42);
+}
+div.ccm-page div.col-sidebar div.ccm-block-topic-list-wrapper {
+	margin: 25px 40px; font-size: 0.85em;
+}
+div.ccm-page div.ccm-block-topic-list-header {
+	font-size: 15px;
+}
+div.ccm-page ul.ccm-block-topic-list-list ul {
+	margin-top: 10px;
+}
+div.ccm-page ul.ccm-block-topic-list-page-topics {
+	padding-bottom: 0px; padding-left: 0px; list-style-type: none;
+}
+div.ccm-page ul.ccm-block-topic-list-page-topics li {
+	padding-bottom: 0px; margin-bottom: 10px;
+}
+div.ccm-page .ccm-block-topic-list-topic-selected {
+	font-weight: bold;
+}
+div.ccm-page div.col-sidebar div.ccm-block-date-navigation-wrapper {
+	margin: 25px 40px; font-size: 0.85em;
+}
+div.ccm-page div.ccm-block-date-navigation-header {
+	font-size: 15px;
+}
+div.ccm-page ul.ccm-block-date-navigation-dates {
+	padding-bottom: 0px; padding-left: 0px; list-style-type: none;
+}
+div.ccm-page ul.ccm-block-date-navigation-dates li {
+	padding-bottom: 0px; margin-bottom: 10px;
+}
+div.ccm-page .ccm-block-date-navigation-date-selected {
+	font-weight: bold;
+}
+div.ccm-page div.ccm-block-calendar-wrapper a.fc-event {
+	color: rgb(255, 255, 255);
+}
+div.ccm-page div.ccm-block-calendar-wrapper a.fc-event:hover {
+	color: rgb(255, 255, 255);
+}
+div.ccm-page div.ccm-block-calendar-event-list {
+	clear: both; margin-bottom: 10px;
+}
+div.ccm-page div.ccm-block-calendar-event-list-wrapper {
+	clear: both; margin-bottom: 10px;
+}
+div.ccm-page div.ccm-block-calendar-event-list-event-date {
+	border: 1px solid rgb(248, 250, 241); border-image: none; width: 50px; height: 50px; margin-right: 10px; float: left;
+}
+div.ccm-page div.ccm-block-calendar-event-list-event-date span {
+	text-align: center; display: block;
+}
+div.ccm-page div.ccm-block-calendar-event-list-event-date span:first-child {
+	color: rgb(152, 107, 71); font-weight: bold; background-color: rgb(248, 250, 241);
+}
+div.ccm-page div.ccm-block-calendar-event-list-event {
+	padding-bottom: 10px; clear: both;
+}
+div.ccm-page main .jumbo {
+	min-height: 300px;
+}
+div.ccm-page main .jumbo h1 {
+	color: rgb(117, 202, 42) !important; line-height: 1.1428; padding-top: 40px; padding-bottom: 40px; font-family: Titillium Web !important; font-size: 2.46em !important; font-weight: 200 !important; display: block;
+}
+div.ccm-page main .jumbo p {
+	color: rgb(79, 88, 92); font-size: 1.46em; font-weight: 200;
+}
+.title-thin {
+	color: rgb(117, 202, 42) !important; line-height: 1.1428; font-family: Titillium Web !important; font-size: 2.46em !important; font-weight: 200 !important; display: block;
+}
+.title-caps-bold {
+	color: rgb(151, 149, 149) !important; text-transform: uppercase; line-height: 2.85em !important; font-family: Titillium Web !important; font-size: 2em !important; font-weight: 700 !important;
+}
+.title-caps {
+	color: rgb(151, 149, 149) !important; text-transform: uppercase; line-height: 2.85em !important; font-family: Titillium Web !important; font-size: 2em !important; font-weight: 300;
+}
+.image-caption {
+	color: rgb(184, 196, 205); font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; font-size: 1em;
+}
+footer#footer-theme {
+	color: rgb(91, 103, 108);
+}
+footer#footer-theme a {
+	color: rgb(0, 66, 118);
+}
+footer#footer-theme a:hover {
+	color: rgb(38, 116, 178);
+}
+footer#footer-theme div.ccm-block-social-links {
+	text-align: right;
+}
+footer#footer-theme div.ccm-block-social-links ul a {
+	color: rgb(209, 209, 209);
+}
+footer#footer-theme div.ccm-block-social-links ul a:hover {
+	color: rgb(202, 95, 42);
+}
+footer#footer-theme section {
+	padding-top: 30px; padding-bottom: 30px; border-top-color: rgb(217, 217, 217); border-top-width: 1px; border-top-style: solid;
+}
+footer#footer-theme section:first-child {
+	background-color: rgb(255, 255, 255);
+}
+footer#footer-theme section:last-child {
+	padding-bottom: 30px; background-color: transparent;
+}
+footer#footer-theme #footer-site-title {
+	transition:color 0.2s linear; color: rgb(163, 0, 0); text-transform: uppercase; font-family: Titillium Web; font-size: 1em; font-weight: 900; -webkit-transition: color .2s linear; -o-transition: color .2s linear;
+}
+footer#footer-theme #footer-site-title:hover {
+	color: rgb(67, 0, 0); text-decoration: none !important;
+}
+footer#concrete5-brand {
+	padding-top: 20px; padding-bottom: 20px; background-color: rgba(0, 0, 0, 0.1);
+}
+footer#concrete5-brand a.concrete5 {
+	color: rgb(0, 186, 255);
+}
+footer#concrete5-brand a.concrete5:hover {
+	color: rgb(0, 141, 192);
+}
+footer#concrete5-brand a {
+	color: rgb(159, 167, 170);
+}
+footer#concrete5-brand a:hover {
+	color: rgb(123, 128, 131);
+}
+.ccm-responsive-overlay {
+	background: white; left: 0px; top: 120px; width: 100%; padding-top: 15px; padding-left: 20px; border-bottom-color: rgb(169, 0, 0); border-bottom-width: 5px; border-bottom-style: solid; display: none; position: absolute; z-index: 99; -webkit-text-size-adjust: none;
+}
+.ccm-responsive-overlay ul {
+	padding-left: 0px;
+}
+.ccm-responsive-overlay ul li {
+	display: block; list-style-type: none;
+}
+.ccm-responsive-overlay ul li.parent-ul a::after {
+	padding-top: 3px; padding-left: 7px; font-family: FontAwesome; font-size: 20px; font-style: normal; font-weight: normal; text-decoration: inherit; display: inline-block; cursor: pointer; content: "\f107";
+}
+.ccm-responsive-overlay ul li a {
+	margin: 0% 5% 0% 0px; padding: 7px 5% 7px 15px; width: 80%; height: 100%; color: rgb(255, 151, 0); font-size: 18px; font-weight: 200; text-decoration: none; display: inline-block;
+}
+.ccm-responsive-overlay ul li a:hover {
+	color: rgb(255, 213, 171);
+}
+.ccm-responsive-overlay ul li ul li {
+	padding-left: 10px;
+}
+.ccm-responsive-overlay ul li ul li.last-li a {
+	padding-top: 0px; font-size: 15px;
+}
+.ccm-responsive-overlay ul li ul li.last-li a::after {
+	content: "";
+}
+.ccm-responsive-menu-launch {
+	margin-top: 10px; float: right; display: none; cursor: pointer;
+}
+.ccm-responsive-menu-launch.responsive-button-close i::after {
+	color: rgb(255, 151, 0); font-family: FontAwesome; font-size: 20px; font-style: normal; font-weight: normal; text-decoration: inherit; display: inline-block; cursor: pointer; content: "\f077";
+}
+.ccm-responsive-menu-launch i::after {
+	color: rgb(255, 151, 0); font-family: FontAwesome; font-size: 20px; font-style: normal; font-weight: normal; text-decoration: inherit; display: inline-block; cursor: pointer; content: "\f0c9";
+}
+@media all and (max-width:767px)
+{
+.ccm-responsive-menu-launch {
+	display: block;
+}
+.ccm-responsive-navigation.original {
+	display: none;
+}
+header .ccm-search-block-form {
+	margin-top: 20px;
+}
+}
+@media all and (min-width:767px)
+{
+.ccm-responsive-overlay {
+	display: none !important;
+}
+}
+.ccm-image-slider-container {
+	background-image: url("/2015/concrete5/concrete/themes/elemental/images/background-slider-default.png");
+}

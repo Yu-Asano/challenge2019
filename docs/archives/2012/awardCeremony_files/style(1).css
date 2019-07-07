@@ -1,0 +1,52 @@
+.fb-social-plugin {
+	width: 100%;
+	margin: 2px 0px 2px 0px;
+}
+.fb-mentions {
+	width: 100%;
+	margin: 10px 0px 10px 0px;
+}
+
+.fb-mentions img {
+	vertical-align: middle;
+	margin-bottom: 2px;
+}
+
+@media only screen and (max-device-width: 480px) {
+	.fb-like {
+		float: left;
+		width: 100%;	
+	}
+
+	div#page {
+		width: 480px;
+	}
+
+	div.fb-comments span{
+		float:left;
+ 		width:100%;
+	}
+}
+
+
+/*
+     FILE ARCHIVED ON 19:17:48 May 14, 2016 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 10:05:35 Jun 29, 2019.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  LoadShardBlock: 95.446 (3)
+  esindex: 0.011
+  captures_list: 118.716
+  CDXLines.iter: 15.167 (3)
+  PetaboxLoader3.datanode: 253.031 (5)
+  exclusion.robots: 0.258
+  exclusion.robots.policy: 0.241
+  RedisCDXSource: 1.335
+  PetaboxLoader3.resolve: 91.732 (2)
+  load_resource: 330.476
+*/

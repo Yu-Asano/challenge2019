@@ -1,0 +1,273 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" style="height:100%;">
+<head>
+<meta id='globalTrackingUrl' content="https://www.linkedin.com/li/track">
+<link href="http://www.slideshare.net/lodjapan/lod-japan-2013-32630895" rel="canonical"/>
+<meta content="http://public.slidesharecdn.com/b/images/artdeco/icons.svg?43e81fd2ef" name="ss-svg-icons"/>
+<!-- SL:begin:notranslate -->
+<title>LODチャレンジ Japan 2013 審査員特別賞 データカタログ賞</title>
+<!-- SL:end:notranslate -->
+<!--[if IE]><style>.slidesContainer img { border: none } </style><![endif]-->
+<script src="http://public.slidesharecdn.com/b/ss_foundation/combined_jquery.js?8f7e6ae431" type="text/javascript"></script>
+<script type="text/javascript">var slideshare_object={flagging:{"update_url":"http://www.slideshare.net/main/flag/32630895?slideshow_id=32630895","is_flagged":false},user:{"login":"guest","is_li_connected":false,"userGroup":"non-member","id":null,"name":null,"fb_userid":null,"su":false,"is_test_user":false,"loggedin":false,"is_pro":"false","has_uploads":null,"is_valid_fbuser":false,"show_li_connect_cta":false,"has_privacy_enabled":null,"li_tracking_url":"https://www.linkedin.com/li/track"},timer:{start:(new Date()).getTime(),end:'',execTime:''},top_nav:{get_url:"/top_nav"},li_bar:{get_url:"/li_bar"},dev:false,init:[],feature_flag:[],is_ssl:false,rum_pagekey:"desktop_slideview_embed_code_loggedout",slideshow:{id:32630895,lead_form_url:'https://www.slideshare.net/slideshow/si62AKKxR9VZ2H/lead-form',is_clickgen_enabled:'false',clickgen_url:''}};</script>
+<script src="http://public.slidesharecdn.com/b/javascripts/global.js?fcb9e2686f" type="text/javascript"></script>
+<script src="http://public.slidesharecdn.com/b/ss_foundation/combined_li_tracking.js?2b74bb650b" type="text/javascript"></script>
+<script type="text/javascript">var _jspl={}
+_jspl.pageInitTime=(new Date()).getTime();window._gaq=[];_gaq.push(['_setAccount','UA-2330466-1']);_gaq.push(['_setDomainName','.slideshare.net']);_gaq.push(['_addIgnoredRef','slideshare.net']);_gaq.push(['_setCustomVar',2,'document_referrer',document.referrer]);_gaq.push(['_trackPageview','/embedPlayerView']);(function(){var ga=document.createElement('script');ga.type='text/javascript';ga.async=true;ga.src=('https:'==document.location.protocol?'https://ssl':'http://www')+'.google-analytics.com/ga.js';s=document.getElementsByTagName('script')[0];s.parentNode.insertBefore(ga,s);_comscore=window._comscore||[];_comscore.push({c1:"7",c2:"6402952",c3:"1"});var ca=document.createElement("script");ca.type='text/javascript';s=document.getElementsByTagName("script")[0];ca.async=true;ca.src=(document.location.protocol=="https:"?"https://sb":"http://b")+".scorecardresearch.com/beacon.js";s.parentNode.insertBefore(ca,s);})();</script>
+<link href="http://public.slidesharecdn.com/b/stylesheets/font-awesome.css?13bf1c47bd" media="screen" rel="stylesheet" type="text/css"/>
+<link href="http://public.slidesharecdn.com/b/stylesheets/ssplayer/combined_presentation.css?fdc55d4980" media="screen" rel="stylesheet" type="text/css"/>
+<script src="http://public.slidesharecdn.com/b/ss_foundation/combined_player_presentation.js?492045785e" type="text/javascript"></script>
+<script type="text/javascript">config={"referer":"http://lod.sfc.keio.ac.jp/blog/?m=201403","iframe_code":"\u003Ciframe src=\"{iframe_url}\" width=\"{width}\" height=\"{height}\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" style=\"border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;\" allowfullscreen\u003E \u003C/iframe\u003E \u003Cdiv style=\"margin-bottom:5px\"\u003E \u003Cstrong\u003E \u003Ca href=\"https://www.slideshare.net/lodjapan/lod-japan-2013-32630895\" title=\"LOD\u30c1\u30e3\u30ec\u30f3\u30b8 Japan 2013 \u5be9\u67fb\u54e1\u7279\u5225\u8cde \u30c7\u30fc\u30bf\u30ab\u30bf\u30ed\u30b0\u8cde\" target=\"_blank\"\u003ELOD\u30c1\u30e3\u30ec\u30f3\u30b8 Japan 2013 \u5be9\u67fb\u54e1\u7279\u5225\u8cde \u30c7\u30fc\u30bf\u30ab\u30bf\u30ed\u30b0\u8cde\u003C/a\u003E \u003C/strong\u003E from \u003Cstrong\u003E\u003Ca href=\"http://www.slideshare.net/lodjapan\" target=\"_blank\"\u003ELinked Open Data\u30c1\u30e3\u30ec\u30f3\u30b8\u5b9f\u884c\u59d4\u54e1\u4f1a\u003C/a\u003E\u003C/strong\u003E \u003C/div\u003E","is_clickgen_enabled":false,"wp_code":"[slideshare id=32630895\u0026doc=lod2013-s06-p21-140323091252-phpapp02]","hosted_in":"embed","disable_share":false,"toolbar_html":"\n\u003C!-- using div.bar-[top, bottom]-margin to fix toolbar spacing with a taller progressbar (improve slide scrubbing UX) --\u003E\n\u003Cdiv class=\"j-progress-bar progress-bar-wrapper\"\u003E\n  \u003Cdiv class=\"progress-bar-spacing\"\u003E\u003C/div\u003E\n  \u003Cdiv class=\"buffered-bar\"\u003E\u003C/div\u003E\n  \u003Cdiv class=\"j-slides-loaded-bar progress-bar\"\u003E\u003C/div\u003E\n  \u003Cdiv class=\"j-progress-tooltip progress-tooltip\" style=\"display: none;\"\u003E\n    \u003Cdiv class=\"j-tooltip-content progress-tooltip-wrapper\"\u003E\n      \u003Cimg class=\"j-tooltip-thumb tooltip-thumb\" onerror=\"this.src=''\"\n            slide-thumb-1=http://image.slidesharecdn.com/lod2013-s06-p21-140323091252-phpapp02/85/lod-japan-2013-1-320.jpg?cb=1395566017\n            slide-thumb-2=http://image.slidesharecdn.com/lod2013-s06-p21-140323091252-phpapp02/85/lod-japan-2013-2-320.jpg?cb=1395566017\n            slide-thumb-3=http://image.slidesharecdn.com/lod2013-s06-p21-140323091252-phpapp02/85/lod-japan-2013-3-320.jpg?cb=1395566017\n            slide-thumb-4=http://image.slidesharecdn.com/lod2013-s06-p21-140323091252-phpapp02/85/lod-japan-2013-4-320.jpg?cb=1395566017\n            slide-thumb-5=http://image.slidesharecdn.com/lod2013-s06-p21-140323091252-phpapp02/85/lod-japan-2013-5-320.jpg?cb=1395566017\n            slide-thumb-6=http://image.slidesharecdn.com/lod2013-s06-p21-140323091252-phpapp02/85/lod-japan-2013-6-320.jpg?cb=1395566017\n            slide-thumb-7=http://image.slidesharecdn.com/lod2013-s06-p21-140323091252-phpapp02/85/lod-japan-2013-7-320.jpg?cb=1395566017\n      \u003E\n      \u003Cspan class=\"j-slidecount-label slidecount-label\"\u003E1\u003C/span\u003E\n    \u003C/div\u003E\n    \u003Cdiv class=\"progress-tooltip-caret\"\u003E\u003C/div\u003E\n  \u003C/div\u003E\n\u003C/div\u003E\n\u003Cdiv class=\"progress-bar-spacing\"\u003E\u003C/div\u003E\n\n\n\n\u003Cdiv class=\"j-tools bot-actions\"\u003E\n      \u003Cbutton data-tooltip\n        aria-haspopup=\"true\"\n        class=\"j-toolbar-share j-tooltip btnShare has-tip j-action-share\"\n        title=\"Share this \"\n        style=\"padding-left: 1px;\"\u003E\n        \u003Ci class=\"fa fa-share fa-lg\"\u003E\u003C/i\u003E\n      \u003C/button\u003E\n      \u003Ca id=\"lead-download-cta\"\n        data-tooltip\n        class=\"j-tooltip j-download button has-tip\"\n        style=\"display:none\"\n        target=\"_blank\"\n        title=\"Save this \"\n        href=\"\"\u003E\n        \u003Ci class=\"fa fa-download fa-lg\" style=\"margin-top: 1px;\"\u003E\u003C/i\u003E\n      \u003C/a\u003E\n\u003C/div\u003E\u003C!-- .bot-actions --\u003E\n\n\n\n\n  \u003Cdiv class=\"nav\"\u003E\n      \u003Cbutton id=\"btnPrevious\" title=\"Previous Slide\"\u003E\n        \u003Cdiv class=\"j-prev-btn arrow-left disabled\"\u003E\u003C/div\u003E\n      \u003C/button\u003E\n    \u003Clabel class=\"goToSlideLabel\"\u003E\n      \u003Cspan id=\"current-slide\" class=\"j-current-slide\"\u003E1\u003C/span\u003E of \u003Cspan id=\"total-slides\" class=\"j-total-slides\"\u003E7\u003C/span\u003E\n    \u003C/label\u003E\n      \u003Cbutton id=\"btnNext\" title=\"Next Slide\"\u003E\n        \u003Cdiv class=\"j-next-btn arrow-right\"\u003E\u003C/div\u003E\n      \u003C/button\u003E\n  \u003C/div\u003E\n\n\n\n\u003Cdiv class=\"navActions\"\u003E\n\n\n\n    \u003Cbutton id=\"btnFullScreen\" class=\"j-tooltip btnFullScreen\" title=\"View Fullscreen\"\u003E\n      \u003Cspan class=\"fa fa-stack\"\u003E\n        \u003Ci class=\"fa fa-expand fa-stack-1x\"\u003E\u003C/i\u003E\n      \u003C/span\u003E\n    \u003C/button\u003E\n    \u003Cbutton id=\"btnLeaveFullScreen\" class=\"j-tooltip btnLeaveFullScreen\" title=\"Exit Fullscreen\"\u003E\n      \u003Cspan class=\"fa-stack\"\u003E\n        \u003Ci class=\"fa fa-compress fa-stack-1x\"\u003E\u003C/i\u003E\n      \u003C/span\u003E\n    \u003C/button\u003E\n\n    \u003Cbutton class=\"view-on-ss btnViewOnSS\"\u003E\n      \u003Cspan\u003EView on SlideShare\u003C/span\u003E\n    \u003C/button\u003E\n\u003C/div\u003E\n\n","slide_error_template":"\u003Cstyle type=\"text/css\"\u003E\n  .jsplayer-slide-error {\n    background-color: #000;\n    padding: 20% 0 13% !important;\n  }\n  .jsplayer-slide-error div {\n    text-align: center;\n  }\n  .jsplayer-slide-error img {\n    height: 79px !important;\n    margin: 0 0 10px;\n    width: 80px !important;\n  }\n  .jsplayer-slide-error .slide-error-body {\n    color: #eee;\n    font-family: 'Lucida Grande',Verdana, Arial, Helvetica, sans-serif;\n    padding: 0 !important;\n  }\n  .jsplayer-slide-error .slide-error-body p {\n    font-size: 0.8em;\n    line-height: 1.1em;\n    margin: 7px 0 11px;\n  }\n  .jsplayer-slide-error .slide-error-body input[type=button] {\n    margin: 7px 0 0;\n    padding: 7px 14px;\n  }\n\u003C/style\u003E\n\u003Cdiv class=\"jsplayer-slide-error\"\u003E\n  \u003Cdiv style=\"position:relative;\"\u003E\n    \u003Cimg src='//public.slidesharecdn.com/b/images/ssplayer/error_dudes-80x79.png' height=\"79\" width=\"80\" /\u003E\n    \u003Cdiv class=\"slide-error-body\"\u003E\n      \u003Cp\u003EWe were unable to load the slide.\u003C/p\u003E\n      \u003Cinput class=\"btn btn-large\" type=\"button\" value=\"Reload slide\" /\u003E\n    \u003C/div\u003E\n  \u003C/div\u003E\n\u003C/div\u003E\n","twitter_share_text":"LOD\u30c1\u30e3\u30ec\u30f3\u30b8 Japan 2013 \u5be9\u67fb\u54e1\u7279\u5225\u8cde \u30c7\u30fc\u30bf\u30ab\u30bf\u30ed\u30b0\u8cde by @LodJapan #linkedopendata","embed_code":"\u003Ciframe src=\"https://www.slideshare.net/slideshow/embed_code/key/si62AKKxR9VZ2H\" width=\"597\" height=\"486\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" style=\"border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;\" allowfullscreen\u003E \u003C/iframe\u003E \u003Cdiv style=\"margin-bottom:5px\"\u003E \u003Cstrong\u003E \u003Ca href=\"https://www.slideshare.net/lodjapan/lod-japan-2013-32630895\" title=\"LOD\u30c1\u30e3\u30ec\u30f3\u30b8 Japan 2013 \u5be9\u67fb\u54e1\u7279\u5225\u8cde \u30c7\u30fc\u30bf\u30ab\u30bf\u30ed\u30b0\u8cde\" target=\"_blank\"\u003ELOD\u30c1\u30e3\u30ec\u30f3\u30b8 Japan 2013 \u5be9\u67fb\u54e1\u7279\u5225\u8cde \u30c7\u30fc\u30bf\u30ab\u30bf\u30ed\u30b0\u8cde\u003C/a\u003E \u003C/strong\u003E from \u003Cstrong\u003E\u003Ca href=\"http://www.slideshare.net/lodjapan\" target=\"_blank\"\u003ELinked Open Data\u30c1\u30e3\u30ec\u30f3\u30b8\u5b9f\u884c\u59d4\u54e1\u4f1a\u003C/a\u003E\u003C/strong\u003E \u003C/div\u003E","id":32630895,"fullscreen_url":"/fullscreen/lodjapan/lod-japan-2013-32630895","toolbar_partial":"slideshow/jsplayer_toolbar_presentation","is_ssl":false,"mode":"html","video_slides":[],"enable_viewSS":true,"stripped_title":"lod-japan-2013-32630895","image_bucket_location":"//image.slidesharecdn.com/lod2013-s06-p21-140323091252-phpapp02","start_slide":1,"bucket_location":"//html.slidesharecdn.com/lod2013-s06-p21-140323091252-phpapp02/","flagging":{"update_url":"http://www.slideshare.net/main/flag/32630895?slideshow_id=32630895","is_flagged":false},"sharescreen":{"url":"http://www.slideshare.net/lodjapan/lod-japan-2013-32630895","slideshow_id":32630895,"html":"\u003Cdiv class=\"shareScreen\"\u003E\n  \u003Ca href=\"#\" class=\"close\"\u003E\u0026times;\u003C/a\u003E\n  \u003Cul class=\"shareMethods\"\u003E\n    \u003Cli class=\"embed\"\u003E\n      \u003Clabel for=\"embed-code\"\u003EEmbed\u003C/label\u003E\n      \u003Cinput type='text' class=\"shareScreenEmbedCode\" value=\"code\" name=\"embed-code\" /\u003E\n    \u003C/li\u003E\n    \u003Cli class=\"url last\"\u003E\n      \u003Clabel for=\"embed-url\"\u003EURL\u003C/label\u003E\n      \u003Cinput type='text' class=\"shareScreenSSUrl\" value=\"code\" name=\"embed-url\" /\u003E\n    \u003C/li\u003E\n  \u003C/ul\u003E\n  \u003Cform class=\"emailShare\"\u003E\n    \u003Cfieldset\u003E\n      \u003Clegend\u003EEmail this\u003C/legend\u003E\n      \u003Cinput type=\"hidden\" class=\"shareDefaultMessage\" value=\"I think you will find this useful.\" /\u003E\n      \u003Cul\u003E\n        \u003Cli\u003E\n          \u003Clabel for=\"name\"\u003EYour name\u003C/label\u003E\n          \u003Cinput class='shareScreenFromName' type=\"text\" value=\"\" /\u003E\n        \u003C/li\u003E\n        \u003Cli\u003E\n          \u003Clabel for=\"mailID\"\u003EEmail to\u003C/label\u003E\n          \u003Cinput class=\"shareScreenMailID\" type=\"text\" value=\"\" /\u003E\n        \u003C/li\u003E\n        \u003Cli class=\"submit\"\u003E\n          \u003Clabel\u003E\u0026nbsp;\u003C/label\u003E\n          \u003Cinput class=\"shareSprite\" type=\"submit\" value=\"\" /\u003E\n        \u003C/li\u003E\n      \u003C/ul\u003E\n      \u003C/fieldset\u003E\n  \u003C/form\u003E\n\u003C/div\u003E\u003C!-- shareScreen ends here --\u003E\n","user_name":"","title":"LOD\u30c1\u30e3\u30ec\u30f3\u30b8 Japan 2013 \u5be9\u67fb\u54e1\u7279\u5225\u8cde \u30c7\u30fc..."},"use_ssl":false,"author_id":34685410,"track_slide_enable":1,"lastscreen":{"url":"http://www.slideshare.net/lodjapan/lod-japan-2013-32630895","related":[{"thumbnail":"//cdn.slidesharecdn.com/ss_thumbnails/lod2013-s06-p36-140323092211-phpapp01-thumbnail.jpg?cb=1395566577","views":5657,"url":"/lodjapan/lod-japan-2013-32631091","author_login":"lodjapan","author":"Linked Open Data\u30c1...","title":"LOD\u30c1\u30e3\u30ec\u30f3\u30b8 Japan 2013 \u30a2\u30d7\u30ea\u30b1\u30fc\u30b7\u30e7\u30f3\u90e8\u9580 \u6700\u512a\u79c0\u8cde"},{"thumbnail":"//cdn.slidesharecdn.com/ss_thumbnails/lod2013-s06-p17lod-140323090900-phpapp02-thumbnail.jpg?cb=1395565778","views":5412,"url":"/lodjapan/lod-japan-2013-lod","author_login":"lodjapan","author":"Linked Open Data\u30c1...","title":"LOD\u30c1\u30e3\u30ec\u30f3\u30b8 Japan 2013 \u5be9\u67fb\u54e1\u7279\u5225\u8cde \u516c\u5171LOD\u8cde"},{"thumbnail":"//cdn.slidesharecdn.com/ss_thumbnails/lod2013-s06-p34-140323092043-phpapp01-thumbnail.jpg?cb=1395566483","views":5529,"url":"/lodjapan/lod-japan-2013-32631067","author_login":"lodjapan","author":"Linked Open Data\u30c1...","title":"LOD\u30c1\u30e3\u30ec\u30f3\u30b8 Japan 2013 \u30d3\u30b8\u30e5\u30a2\u30e9\u30a4\u30bc\u30fc\u30b7\u30e7\u30f3\u90e8\u9580 \u6700\u512a\u79c0\u8cde"},{"thumbnail":"//cdn.slidesharecdn.com/ss_thumbnails/lod2013-s06-p31-140323091902-phpapp01-thumbnail.jpg?cb=1395566380","views":5474,"url":"/lodjapan/lod-japan-2013-32631023","author_login":"lodjapan","author":"Linked Open Data\u30c1...","title":"LOD\u30c1\u30e3\u30ec\u30f3\u30b8 Japan 2013 \u57fa\u76e4\u6280\u8853\u90e8\u9580 \u512a\u79c0\u8cde"},{"thumbnail":"//cdn.slidesharecdn.com/ss_thumbnails/lod2013-s06-p27-140323091559-phpapp01-thumbnail.jpg?cb=1395566201","views":5573,"url":"/lodjapan/lod-japan-2013-32630962","author_login":"lodjapan","author":"Linked Open Data\u30c1...","title":"LOD\u30c1\u30e3\u30ec\u30f3\u30b8 Japan 2013 \u30a2\u30a4\u30c7\u30a3\u30a2\u90e8\u9580 \u512a\u79c0\u8cde"},{"thumbnail":"//cdn.slidesharecdn.com/ss_thumbnails/lod2013-s06-p07cinii-140323085856-phpapp01-thumbnail.jpg?cb=1395565163","views":5171,"url":"/lodjapan/lod-japan-2013-cinii","author_login":"lodjapan","author":"Linked Open Data\u30c1...","title":"LOD\u30c1\u30e3\u30ec\u30f3\u30b8 Japan 2013 \u30c7\u30fc\u30bf\u63d0\u4f9b\u30d1\u30fc\u30c8\u30ca\u30fc\u8cde CiNii\u8cde"}]},"player_bgcolor":"jsplBgColorBigfoot","image_ready":true,"iframe_url":"//www.slideshare.net/slideshow/embed_code/key/si62AKKxR9VZ2H","container":"player","twitter_recommended_users":"@LodJapan","ppt_location":"lod2013-s06-p21-140323091252-phpapp02","slideview_url":"/lodjapan/lod-japan-2013-32630895?ref=http://lod.sfc.keio.ac.jp/blog/?m=201403","autoplayOnEmbed":false,"spinner_url_fullscreen":"//public.slidesharecdn.com/b/images/ssplayer/loading_black.gif","spinner_url":"//public.slidesharecdn.com/b/images/ssplayer/loading.gif","has_video":false,"show_image_player":true,"fullscreen_bgcolor":"jsplBgColorBlack","replayscreen":{"html":"\u003Ca href=\"#\" class=\"j-replay-button replay-button\" \u003E\n  \u003Ci class=\"fa fa-refresh\"\u003E\u003C/i\u003E\n  View again\n\u003C/a\u003E\n"},"pin_image_url":"http://image.slidesharecdn.com/lod2013-s06-p21-140323091252-phpapp02/95/lod-japan-2013-1-638.jpg?cb=1395566017","slide_count":7,"slideshow_slideshow_type":0,"disable_eagerload":true,"embed_sizes":{"presets":{"preset2":{"displaySize":{"height":38,"width":50},"size":{"height":355,"width":425}},"preset1":{"displaySize":{"height":30,"width":40},"size":{"height":290,"width":340}},"preset4":{"displaySize":{"height":53,"width":70},"size":{"height":485,"width":595}},"preset3":{"displaySize":{"height":45,"width":60},"size":{"height":420,"width":510}}},"config":{"defaultPreset":"preset4"}},"disable_lastscreen":false,"video_slides_count":0,"page":null,"render_links":"default","is_private":false,"html_eotfont_url_suffix":"-eot.js","share_text":"LOD\u30c1\u30e3\u30ec\u30f3\u30b8 Japan 2013 \u5be9\u67fb\u54e1\u7279\u5225\u8cde \u30c7\u30fc\u30bf\u30ab\u30bf\u30ed\u30b0\u8cde by Linked Open Data\u30c1\u30e3\u30ec\u30f3\u30b8\u5b9f\u884c\u59d4\u54e1\u4f1a via slideshare","player_type":"presentation","slideshow_real_total_slides_count":7,"show_related_content":"1","is_only_private":false,"clickgen_url":null,"meta_error_template":"\u003Cstyle type=\"text/css\"\u003E\n  .jsplayer-slide-error {\n    background-color: #000;\n    padding: 20% 0 13% !important;\n  }\n  .jsplayer-slide-error div {\n    text-align: center;\n  }\n  .jsplayer-slide-error img {\n    height: 79px !important;\n    margin: 0 0 10px;\n    width: 80px !important;\n  }\n  .jsplayer-slide-error .slide-error-body {\n    color: #eee;\n    font-family: 'Lucida Grande',Verdana, Arial, Helvetica, sans-serif;\n    padding: 0 !important;\n  }\n  .jsplayer-slide-error .slide-error-body p {\n    font-size: 0.8em;\n    line-height: 1.1em;\n    margin: 8px 0;\n  }\n  .jsplayer-slide-error .slide-error-body input[type=button] {\n    margin: 7px 0 0;\n    padding: 7px 14px;\n  }\n\u003C/style\u003E\n\u003Cdiv class=\"jsplayer-slide-error\"\u003E\n  \u003Cdiv style=\"position:relative;\"\u003E\n    \u003Cimg src='//public.slidesharecdn.com/b/images/ssplayer/error_dudes-80x79.png' height=\"79\" width=\"80\" /\u003E\n    \u003Cdiv class=\"slide-error-body\"\u003E\n      \u003Cp\u003EWe have encountered an error.\u003C/p\u003E\n      \u003Cp\u003EPlease refresh the page.\u003C/p\u003E\n    \u003C/div\u003E\n  \u003C/div\u003E\n\u003C/div\u003E\n","timestamp":1395566017,"html_ttffont_url_suffix":".js"};$(function(){jsplayer=new SSPlayer(config);window.bindJsAPI&&bindJsAPI(jsplayer);$(jsplayer).bind('slidechanged',function(e){$('.current_slide_number').text(e.ssData.index);});});</script>
+</head>
+<body id="pagekey-slideshare_desktop_slideview_embed_code_loggedout" style="border:0;margin:0;padding:0;width:100%;height:100%;overflow:hidden;">
+<div id="player" class="player embed_player   lightPlayer fluidImage fluidLayout presentation_player">
+<span class="j-fullscreen-title-banner fullscreen-title-banner" style="display: none;">
+LODチャレンジ Japan 2013 審査員特別賞 データカタログ賞
+</span>
+<div id="stage" class="stage">
+<div class="player-cta-container">
+</div>
+<div class="slide_container tall_img">
+<div data-index="1" class="slide show">
+<img id=img_slide_image class="slide_image" src="http://image.slidesharecdn.com/lod2013-s06-p21-140323091252-phpapp02/95/lod-japan-2013-1-638.jpg?cb=1395566017" data-normal="http://image.slidesharecdn.com/lod2013-s06-p21-140323091252-phpapp02/95/lod-japan-2013-1-638.jpg?cb=1395566017" data-full="http://image.slidesharecdn.com/lod2013-s06-p21-140323091252-phpapp02/95/lod-japan-2013-1-1024.jpg?cb=1395566017" data-small="http://image.slidesharecdn.com/lod2013-s06-p21-140323091252-phpapp02/85/lod-japan-2013-1-320.jpg?cb=1395566017"/>
+</div>
+<div data-index="2" class="slide">
+<img class="slide_image" src="" data-normal="http://image.slidesharecdn.com/lod2013-s06-p21-140323091252-phpapp02/95/lod-japan-2013-2-638.jpg?cb=1395566017" data-full="http://image.slidesharecdn.com/lod2013-s06-p21-140323091252-phpapp02/95/lod-japan-2013-2-1024.jpg?cb=1395566017" data-small="http://image.slidesharecdn.com/lod2013-s06-p21-140323091252-phpapp02/85/lod-japan-2013-2-320.jpg?cb=1395566017"/>
+</div>
+<div data-index="3" class="slide">
+<img class="slide_image" src="" data-normal="http://image.slidesharecdn.com/lod2013-s06-p21-140323091252-phpapp02/95/lod-japan-2013-3-638.jpg?cb=1395566017" data-full="http://image.slidesharecdn.com/lod2013-s06-p21-140323091252-phpapp02/95/lod-japan-2013-3-1024.jpg?cb=1395566017" data-small="http://image.slidesharecdn.com/lod2013-s06-p21-140323091252-phpapp02/85/lod-japan-2013-3-320.jpg?cb=1395566017"/>
+</div>
+<div data-index="4" class="slide">
+<img class="slide_image" src="" data-normal="http://image.slidesharecdn.com/lod2013-s06-p21-140323091252-phpapp02/95/lod-japan-2013-4-638.jpg?cb=1395566017" data-full="http://image.slidesharecdn.com/lod2013-s06-p21-140323091252-phpapp02/95/lod-japan-2013-4-1024.jpg?cb=1395566017" data-small="http://image.slidesharecdn.com/lod2013-s06-p21-140323091252-phpapp02/85/lod-japan-2013-4-320.jpg?cb=1395566017"/>
+</div>
+<div data-index="5" class="slide">
+<img class="slide_image" src="" data-normal="http://image.slidesharecdn.com/lod2013-s06-p21-140323091252-phpapp02/95/lod-japan-2013-5-638.jpg?cb=1395566017" data-full="http://image.slidesharecdn.com/lod2013-s06-p21-140323091252-phpapp02/95/lod-japan-2013-5-1024.jpg?cb=1395566017" data-small="http://image.slidesharecdn.com/lod2013-s06-p21-140323091252-phpapp02/85/lod-japan-2013-5-320.jpg?cb=1395566017"/>
+</div>
+<div data-index="6" class="slide">
+<img class="slide_image" src="" data-normal="http://image.slidesharecdn.com/lod2013-s06-p21-140323091252-phpapp02/95/lod-japan-2013-6-638.jpg?cb=1395566017" data-full="http://image.slidesharecdn.com/lod2013-s06-p21-140323091252-phpapp02/95/lod-japan-2013-6-1024.jpg?cb=1395566017" data-small="http://image.slidesharecdn.com/lod2013-s06-p21-140323091252-phpapp02/85/lod-japan-2013-6-320.jpg?cb=1395566017"/>
+</div>
+<div data-index="7" class="slide">
+<img class="slide_image" src="" data-normal="http://image.slidesharecdn.com/lod2013-s06-p21-140323091252-phpapp02/95/lod-japan-2013-7-638.jpg?cb=1395566017" data-full="http://image.slidesharecdn.com/lod2013-s06-p21-140323091252-phpapp02/95/lod-japan-2013-7-1024.jpg?cb=1395566017" data-small="http://image.slidesharecdn.com/lod2013-s06-p21-140323091252-phpapp02/85/lod-japan-2013-7-320.jpg?cb=1395566017"/>
+</div>
+</div>
+</div> <!-- end stage -->
+<div class="toolbar_wrapper">
+<div class="toolbar normal">
+<!-- using div.bar-[top, bottom]-margin to fix toolbar spacing with a taller progressbar (improve slide scrubbing UX) -->
+<div class="j-progress-bar progress-bar-wrapper">
+<div class="progress-bar-spacing"></div>
+<div class="buffered-bar"></div>
+<div class="j-slides-loaded-bar progress-bar"></div>
+<div class="j-progress-tooltip progress-tooltip" style="display: none;">
+<div class="j-tooltip-content progress-tooltip-wrapper">
+<img class="j-tooltip-thumb tooltip-thumb" onerror="this.src=''" slide-thumb-1=http://image.slidesharecdn.com/lod2013-s06-p21-140323091252-phpapp02/85/lod-japan-2013-1-320.jpg?cb=1395566017 slide-thumb-2=http://image.slidesharecdn.com/lod2013-s06-p21-140323091252-phpapp02/85/lod-japan-2013-2-320.jpg?cb=1395566017 slide-thumb-3=http://image.slidesharecdn.com/lod2013-s06-p21-140323091252-phpapp02/85/lod-japan-2013-3-320.jpg?cb=1395566017 slide-thumb-4=http://image.slidesharecdn.com/lod2013-s06-p21-140323091252-phpapp02/85/lod-japan-2013-4-320.jpg?cb=1395566017 slide-thumb-5=http://image.slidesharecdn.com/lod2013-s06-p21-140323091252-phpapp02/85/lod-japan-2013-5-320.jpg?cb=1395566017 slide-thumb-6=http://image.slidesharecdn.com/lod2013-s06-p21-140323091252-phpapp02/85/lod-japan-2013-6-320.jpg?cb=1395566017 slide-thumb-7=http://image.slidesharecdn.com/lod2013-s06-p21-140323091252-phpapp02/85/lod-japan-2013-7-320.jpg?cb=1395566017>
+<span class="j-slidecount-label slidecount-label">1</span>
+</div>
+<div class="progress-tooltip-caret"></div>
+</div>
+</div>
+<div class="progress-bar-spacing"></div>
+<div class="j-tools bot-actions">
+<button data-tooltip aria-haspopup="true" class="j-toolbar-share j-tooltip btnShare has-tip j-action-share" title="Share this " style="padding-left: 1px;">
+<i class="fa fa-share fa-lg"></i>
+</button>
+<a id="lead-download-cta" data-tooltip class="j-tooltip j-download button has-tip" style="display:none" target="_blank" title="Save this " href="">
+<i class="fa fa-download fa-lg" style="margin-top: 1px;"></i>
+</a>
+</div><!-- .bot-actions -->
+<div class="nav">
+<button id="btnPrevious" title="Previous Slide">
+<div class="j-prev-btn arrow-left disabled"></div>
+</button>
+<label class="goToSlideLabel">
+<span id="current-slide" class="j-current-slide">1</span> of <span id="total-slides" class="j-total-slides">7</span>
+</label>
+<button id="btnNext" title="Next Slide">
+<div class="j-next-btn arrow-right"></div>
+</button>
+</div>
+<div class="navActions">
+<button id="btnFullScreen" class="j-tooltip btnFullScreen" title="View Fullscreen">
+<span class="fa fa-stack">
+<i class="fa fa-expand fa-stack-1x"></i>
+</span>
+</button>
+<button id="btnLeaveFullScreen" class="j-tooltip btnLeaveFullScreen" title="Exit Fullscreen">
+<span class="fa-stack">
+<i class="fa fa-compress fa-stack-1x"></i>
+</span>
+</button>
+<button class="view-on-ss btnViewOnSS">
+<span>View on SlideShare</span>
+</button>
+</div>
+</div>
+</div> <!-- end toolbar -->
+<div id="lastScreen" class="hide">
+<div class="lastScreen">
+<div class="jsplLastScreenOverlay j-last-screen-overlay"></div>
+<div class="pro-overlay j-lastscreen">
+<div class="proSharingText">Like this slideshow? Why not share!</div>
+<ul class="lastActions j-last-screen-actions">
+<li class="share-cta j-share-cta lastscreen-share-cta"><a class="share-btn"><span class="lastScreen-sprite"></span>Share</a></li>
+<li class="email-cta j-email-cta"><a class="email-btn"><span class="lastScreen-sprite"></span>Email</a></li>
+<li class="replay last">
+<a class="replay-btn lastScreenReplay j-tooltip j-last-screen-replay" data-original-title="View again" title="View again">
+<span class="lastScreen-sprite">&nbsp;</span>
+</a>
+</li>
+<li class="close-btn lastScreen-sprite j-lastscreen-close">
+<a>&nbsp;</a>
+</li>
+</ul>
+<div class="related-presentations j-lastscreen-related">
+<ul class="presentation-list">
+<li>
+<a href="/lodjapan/lod-japan-2013-32631091" title="LODチャレンジ Japan 2013 アプリケーション部門 最優秀賞" target="_blank">
+<img class="j-thumbnail" data-original="//cdn.slidesharecdn.com/ss_thumbnails/lod2013-s06-p36-140323092211-phpapp01-thumbnail.jpg?cb=1395566577" alt="LODチャレンジ Japan 2013 アプリケーション部門 最優秀賞"/>
+<span class="presentation-meta">
+<span class="title">LODチャレンジ Japan 2013 アプリケーション部門 最優秀賞</span>
+<span class="author">by&nbsp;Linked Open Dataチ...</span>
+<span class="view-count">5657&nbsp;views</span>
+</span>
+</a>
+</li>
+<li>
+<a href="/lodjapan/lod-japan-2013-lod" title="LODチャレンジ Japan 2013 審査員特別賞 公共LOD賞" target="_blank">
+<img class="j-thumbnail" data-original="//cdn.slidesharecdn.com/ss_thumbnails/lod2013-s06-p17lod-140323090900-phpapp02-thumbnail.jpg?cb=1395565778" alt="LODチャレンジ Japan 2013 審査員特別賞 公共LOD賞"/>
+<span class="presentation-meta">
+<span class="title">LODチャレンジ Japan 2013 審査員特別賞 公共LOD賞</span>
+<span class="author">by&nbsp;Linked Open Dataチ...</span>
+<span class="view-count">5412&nbsp;views</span>
+</span>
+</a>
+</li>
+<li>
+<a href="/lodjapan/lod-japan-2013-32631067" title="LODチャレンジ Japan 2013 ビジュアライゼーション部門 最優秀賞" target="_blank">
+<img class="j-thumbnail" data-original="//cdn.slidesharecdn.com/ss_thumbnails/lod2013-s06-p34-140323092043-phpapp01-thumbnail.jpg?cb=1395566483" alt="LODチャレンジ Japan 2013 ビジュアライゼーション部門 最優秀賞"/>
+<span class="presentation-meta">
+<span class="title">LODチャレンジ Japan 2013 ビジュアライゼーション部門 最優秀賞</span>
+<span class="author">by&nbsp;Linked Open Dataチ...</span>
+<span class="view-count">5529&nbsp;views</span>
+</span>
+</a>
+</li>
+<li>
+<a href="/lodjapan/lod-japan-2013-32631023" title="LODチャレンジ Japan 2013 基盤技術部門 優秀賞" target="_blank">
+<img class="j-thumbnail" data-original="//cdn.slidesharecdn.com/ss_thumbnails/lod2013-s06-p31-140323091902-phpapp01-thumbnail.jpg?cb=1395566380" alt="LODチャレンジ Japan 2013 基盤技術部門 優秀賞"/>
+<span class="presentation-meta">
+<span class="title">LODチャレンジ Japan 2013 基盤技術部門 優秀賞</span>
+<span class="author">by&nbsp;Linked Open Dataチ...</span>
+<span class="view-count">5474&nbsp;views</span>
+</span>
+</a>
+</li>
+<li>
+<a href="/lodjapan/lod-japan-2013-32630962" title="LODチャレンジ Japan 2013 アイディア部門 優秀賞" target="_blank">
+<img class="j-thumbnail" data-original="//cdn.slidesharecdn.com/ss_thumbnails/lod2013-s06-p27-140323091559-phpapp01-thumbnail.jpg?cb=1395566201" alt="LODチャレンジ Japan 2013 アイディア部門 優秀賞"/>
+<span class="presentation-meta">
+<span class="title">LODチャレンジ Japan 2013 アイディア部門 優秀賞</span>
+<span class="author">by&nbsp;Linked Open Dataチ...</span>
+<span class="view-count">5573&nbsp;views</span>
+</span>
+</a>
+</li>
+<li>
+<a href="/lodjapan/lod-japan-2013-cinii" title="LODチャレンジ Japan 2013 データ提供パートナー賞 CiNii賞" target="_blank">
+<img class="j-thumbnail" data-original="//cdn.slidesharecdn.com/ss_thumbnails/lod2013-s06-p07cinii-140323085856-phpapp01-thumbnail.jpg?cb=1395565163" alt="LODチャレンジ Japan 2013 データ提供パートナー賞 CiNii賞"/>
+<span class="presentation-meta">
+<span class="title">LODチャレンジ Japan 2013 データ提供パートナー賞 CiNii賞</span>
+<span class="author">by&nbsp;Linked Open Dataチ...</span>
+<span class="view-count">5171&nbsp;views</span>
+</span>
+</a>
+</li>
+</ul>
+</div>
+</div> <!-- end of div class pro-overlay -->
+<div class="j-modal-share modal-share mobile-hide" style="display: none;" id="last-screen-modal-share" data-ga-track-category="" data-ga-track-action="">
+<div class="j-modal-popup modal-popup">
+<div class="j-modal-close modal-close"></div>
+<div class="modal-content-wrapper">
+<div class="j-modal-content modal-content" id="modal-content" data-slideshowid="">
+<header class="j-tabs tabs">
+<a id="button-share-tab" class="selected j-button-share-tab">Share SlideShare</a>
+<hr class="divider"/>
+</header>
+<div class="j-share-tab share-tab">
+<div>
+<ul class="j-share-social-list share-social-list" data-canonical-url="http://www.slideshare.net/lodjapan/lod-japan-2013-32630895?ref=http://lod.sfc.keio.ac.jp/blog/?m=201403">
+<li class="facebook" data-network="facebook">
+<div class="social-hover">
+<a class="share-link" rel="nofollow" data-url="http://www.slideshare.net/lodjapan/lod-japan-2013-32630895?ref=http://lod.sfc.keio.ac.jp/blog/?m=201403" title="Share on Facebook">Facebook</a>
+</div>
+</li>
+<li class="twitter" data-network="twitter">
+<div class="social-hover">
+<a class="share-link" rel="nofollow" data-url="http://www.slideshare.net/lodjapan/lod-japan-2013-32630895?ref=http://lod.sfc.keio.ac.jp/blog/?m=201403" data-text="LODチャレンジ Japan 2013 審査員特別賞 データカタログ賞 by @LodJapan #linkedopendata" data-related="@LodJapan" data-via="SlideShare" title="Tweet on Twitter">Twitter</a>
+</div>
+</li>
+<li class="linkedin" data-network="linkedin">
+<div class="social-hover">
+<a class="share-link" rel="nofollow" data-url="http://www.slideshare.net/lodjapan/lod-japan-2013-32630895?ref=http://lod.sfc.keio.ac.jp/blog/?m=201403" data-text="LODチャレンジ Japan 2013 審査員特別賞 データカタログ賞 by Linked Open Dataチャレンジ実行委員会 via slideshare" title="Share on Linkedin">LinkedIn</a>
+</div>
+</li>
+<li class="googleplus" data-network="googleplus">
+<div class="social-hover">
+<a class="share-link" rel="nofollow" data-url="http://www.slideshare.net/lodjapan/lod-japan-2013-32630895?ref=http://lod.sfc.keio.ac.jp/blog/?m=201403" title="Share on Google+">Google+</a>
+</div>
+</li>
+</ul>
+</div>
+<div class="section share-email">
+<span class="header">Email</span>
+<form id="share-email-form" class="j-share-email-form">
+<input id="share-email-to" data-ga="to" class="j-share-email-to j-email-clear j-share-expand-trigger" name="recipients" placeholder="Enter email addresses"></input>
+<div class="share-email-expand j-share-expand">
+<input id="share-email-name" data-ga="name" class="j-share-email-name j-email-clear" name="name" type="text" placeholder="from…"></input>
+<textarea id="share-email-msg" data-ga="msg" class="j-share-email-msg j-email-clear" name="msg" placeholder="add a message…"></textarea>
+<span class="j-email-flash email-flash"></span>
+<input id="share-email-send" data-ga="send" class="j-share-email-send button btn btn-inverse" type="submit" value="Send"/>
+<div style="clear:both"></div>
+</div>
+</form>
+<div id="email-sent" class="j-email-sent section"><div>
+<span class="success-text">Email sent successfully!</span></div>
+</div>
+</div>
+<div class="j-share-embed section share-embed">
+<span class="header">Embed</span>
+<textarea id="share-embed-link" class="j-share-embed-link j-share-expand-trigger" readonly data-ga="link"></textarea>
+<div class="share-embed-options j-share-expand">
+<div class="embed-size">
+<span class="title">Size (px)</span>
+<select class="j-embed-size-picker embed-size-picker j-update-embed" id="embed-size-picker" data-ga="size-picker"></select>
+</div>
+<div class="embed-show-related" style="display:none">
+<input type="checkbox" name="related-content" checked="checked" class="j-embed-related-cbox embed-related-cbox j-update-embed" data-ga="related">
+<span>Show related SlideShares at end</span>
+</div>
+</div>
+</div>
+<div class="wordpress-container section">
+<span class="header">WordPress Shortcode</span>
+<input type="text" name="embed-code" id="share-embed-wp" value="" readonly="readonly" class="j-share-embed-wp text quiet h-wpembedcode j-share-expand-trigger" data-ga="wp-link">
+</div>
+<div class="share-link-container section">
+<span class="header">Link</span>
+<input type="input" class="j-share-link-url j-share-expand-trigger" id="share-link-url" data-ga="link" readonly></input>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div><!-- share modal -->
+</div><!-- last screen ends here -->
+</div>
+<div class="image_maps"></div>
+</div><!-- end player -->
+<script>$.ajax({url:'http://www.slideshare.net/pingback/embed_or_homepageplayerhits/32630895',type:'GET',data:{ref:'http://lod.sfc.keio.ac.jp/blog/?m=201403'},cache:false});</script>
+<script src="http://public.slidesharecdn.com/b/ss_foundation/combined_old_embed.js?ebd3253a69" type="text/javascript"></script>
+</body>
+</html>
